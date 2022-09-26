@@ -1516,7 +1516,6 @@ ________________________________________________________________________________
 │  │      vivotypeAR-beta-Thin.otf
 │  │      
 │  ├─喜茶灵感体
-│  │      app-wxss.js
 │  │      HeyFont-bold.otf
 │  │      HeyFont-regular.otf
 │  │      
