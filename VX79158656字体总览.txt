@@ -1,4 +1,5 @@
-_______________________________________________________________________________________________________
+ifonts尔雅，壹心，字灵，喜鹊，胡晓波，字由点字库，字魂全站，文鼎，方正，吉页，创客贴，叶根友，默陌，昭和書体，演示，优设，三极，逐浪，邯郸，汉呈，上首，花西子御泥坊喜茶，等等
+______________________________________________________________________________________________________
 │                                                                                                      │ 
 │    按ctrl键+F键，查找更快捷                                                                             │ 
 _______________________________________________________________________________________________________│ 
@@ -383,8 +384,6 @@ ________________________________________________________________________________
 │      和风书道昭和黄龙体01.ttf
 │      
 ├─喜鹊字体
-
-
 │  │  喜鹊万人造字体.ttf
 │  │  喜鹊乌冬面(简 繁体).ttf
 │  │  喜鹊乐敦体.ttf
@@ -399,7 +398,6 @@ ________________________________________________________________________________
 │  │  喜鹊直率体(简 繁体).ttf
 │  │  喜鹊聚珍体-regular.ttf
 │  │  喜鹊字体打包.zip 
-
 │          
 ├─壹心字体
 │      1.txt
@@ -517,6 +515,7 @@ ________________________________________________________________________________
 │      黄油鹿柯珂体.otf
 │      黄油鹿柯珂体.ttf
 │      
+
 ├─默陌字体
 │      1.txt
 │      傲娇公举体.ttf
@@ -578,6 +577,274 @@ ________________________________________________________________________________
 │      默陌魔师道影体.ttf
 │      默陌麦芒体.ttf
 │ 
+├─昭和書体
+│      Ksoあけぼのakebono.ttf
+│      Ksoかぐや-KsoKaguya.ttf
+│      Ksoバサころ-KsoBasakoro.ttf
+│      Kso不動-KsoFudou.ttf
+│      Kso仙人KsoSennin.ttf
+│      KSO令明-KsoReimei.ttf
+│      KSO創.ttf
+│      Kso地蔵-KsoJizou.ttf
+│      Kso天空KsoTenku.ttf
+│      Kso天龍.ttf
+│      kso太楷書.ttf
+│      KSO太行書.ttf
+│      kso如来.ttf
+│      Kso如来爽-KsoNyoraiSou.ttf
+│      Kso孔雀-KsoKujaku.ttf
+│      Kso寿鶴-KsoJukaku.ttf
+│      Kso弥勒-KsoMiroku.ttf
+│      Kso心龍 KsoShinryu.ttf
+│      Kso文殊-KsoMonju.ttf
+│      kso新太楷書.ttf
+│      Kso新豪龍.otf
+│      kso昇龍.ttf
+│      Kso昭和ひげ文字hige.ttf
+│      kso昭和勘亭流.ttf
+│      Kso昭和寄席文字-KsoYose.ttf
+│      Kso昭和楷書.ttf
+│      kso昭和行書.ttf
+│      Kso普賢ふげん-KsoFugen.ttf
+│      kso朱雀.ttf
+│      KSO栄泉太楷書-KsoEikaiFuto.ttf
+│      kso栄泉楷書.ttf
+│      kso栄泉楷行書.ttf
+│      Kso泥姫-KsoDorohime.ttf
+│      kso清龍.ttf
+│      kso滝.ttf
+│      Kso玄武 KsoGenbu.ttf
+│      Kso白虎.ttf
+│      Kso白虎爽-KsoByakkoSou.ttf
+│      Kso白龍爽-KsoHakuryuSou.ttf
+│      kso白龙.ttf
+│      Kso翁-KsoOkina .ttf
+│      kso花墨.ttf
+│      kso花神.ttf
+│      Kso草龍-KsoSouryu.ttf
+│      Kso虚空蔵-KsoKokuuzou.ttf
+│      Kso観音-KsoKannon.ttf
+│      Kso豪龍爽-KsoGoryuSou.ttf
+│      Kso迅馬-KsoJinba.ttf
+│      Kso遊和-KsoYuai.ttf
+│      Kso遊隷-KsoYurei.ttf
+│      Kso金剛-KsoKongou.ttf
+│      Kso銀龍.ttf
+│      Kso闘龍.ttf
+│      Kso闘龍爽-KsoToryuSou.ttf
+│      Kso陽炎.ttf
+│      kso雲龍.ttf
+│      Kso雲龍爽-KsoUnryuSou.ttf
+│      KSO雷神体.otf
+│      Kso風来坊-KsoFuraibou.ttf
+│      Kso飛龍.ttf
+│      kso黄龙.ttf
+│      Kso黒龍.ttf
+│      Kso黒龍爽-KsoKokuryuSou.ttf
+│      Kso龍神改-KsoRyujin3.ttf
+│      kso龙神.ttf
+│      KswFujin风神.ttf
+│      KswReisho昭和隸書.ttf
+│      KswSeisi势至.ttf
+│      ksw文龍bunryu.ttf
+│      Ksw極太楷書.ttf
+│      Ksw般若.ttf
+│    
+├─大厂定制字体
+│  │  PUMA彪马 2022-2023.otf
+│  │  耐克密歇根字体Valiant.otf
+│  │  阿迪达斯世界杯球衣字体adicup-q-2022.ttf
+│  │  
+│  ├─HarmonyOS Sans
+│  │  └─HarmonyOS Sans
+│  │      ├─HarmonyOS_Sans
+│  │      │      HarmonyOS_Sans_Black.ttf
+│  │      │      HarmonyOS_Sans_Bold.ttf
+│  │      │      HarmonyOS_Sans_Light.ttf
+│  │      │      HarmonyOS_Sans_Medium.ttf
+│  │      │      HarmonyOS_Sans_Regular.ttf
+│  │      │      HarmonyOS_Sans_Thin.ttf
+│  │      │      LICENSE.txt
+│  │      │      
+│  │      ├─HarmonyOS_Sans_Condensed
+│  │      │      HarmonyOS_Sans_Condensed_Black.ttf
+│  │      │      HarmonyOS_Sans_Condensed_Bold.ttf
+│  │      │      HarmonyOS_Sans_Condensed_Light.ttf
+│  │      │      HarmonyOS_Sans_Condensed_Medium.ttf
+│  │      │      HarmonyOS_Sans_Condensed_Regular.ttf
+│  │      │      HarmonyOS_Sans_Condensed_Thin.ttf
+│  │      │      LICENSE.txt
+│  │      │      
+│  │      ├─HarmonyOS_Sans_Condensed_Italic
+│  │      │      HarmonyOS_Sans_Condensed_Black_Italic.ttf
+│  │      │      HarmonyOS_Sans_Condensed_Bold_Italic.ttf
+│  │      │      HarmonyOS_Sans_Condensed_Light_Italic.ttf
+│  │      │      HarmonyOS_Sans_Condensed_Medium_Italic.ttf
+│  │      │      HarmonyOS_Sans_Condensed_Regular_Italic.ttf
+│  │      │      HarmonyOS_Sans_Condensed_Thin_Italic.ttf
+│  │      │      LICENSE.txt
+│  │      │      
+│  │      ├─HarmonyOS_Sans_Italic
+│  │      │      HarmonyOS_Sans_Black_Italic.ttf
+│  │      │      HarmonyOS_Sans_Bold_Italic.ttf
+│  │      │      HarmonyOS_Sans_Light_Italic.ttf
+│  │      │      HarmonyOS_Sans_Medium_Italic.ttf
+│  │      │      HarmonyOS_Sans_Regular_Italic.ttf
+│  │      │      HarmonyOS_Sans_Thin_Italic.ttf
+│  │      │      LICENSE.txt
+│  │      │      
+│  │      ├─HarmonyOS_Sans_Naskh_Arabic
+│  │      │      HarmonyOS_Sans_Naskh_Arabic_Black.ttf
+│  │      │      HarmonyOS_Sans_Naskh_Arabic_Bold.ttf
+│  │      │      HarmonyOS_Sans_Naskh_Arabic_Light.ttf
+│  │      │      HarmonyOS_Sans_Naskh_Arabic_Medium.ttf
+│  │      │      HarmonyOS_Sans_Naskh_Arabic_Regular.ttf
+│  │      │      HarmonyOS_Sans_Naskh_Arabic_Thin.ttf
+│  │      │      LICENSE.txt
+│  │      │      
+│  │      ├─HarmonyOS_Sans_Naskh_Arabic_UI
+│  │      │      HarmonyOS_Sans_Naskh_Arabic_UI_Black.ttf
+│  │      │      HarmonyOS_Sans_Naskh_Arabic_UI_Bold.ttf
+│  │      │      HarmonyOS_Sans_Naskh_Arabic_UI_Light.ttf
+│  │      │      HarmonyOS_Sans_Naskh_Arabic_UI_Medium.ttf
+│  │      │      HarmonyOS_Sans_Naskh_Arabic_UI_Regular.ttf
+│  │      │      HarmonyOS_Sans_Naskh_Arabic_UI_Thin.ttf
+│  │      │      LICENSE.txt
+│  │      │      
+│  │      ├─HarmonyOS_Sans_SC
+│  │      │      HarmonyOS_Sans_SC_Black.ttf
+│  │      │      HarmonyOS_Sans_SC_Bold.ttf
+│  │      │      HarmonyOS_Sans_SC_Light.ttf
+│  │      │      HarmonyOS_Sans_SC_Medium.ttf
+│  │      │      HarmonyOS_Sans_SC_Regular.ttf
+│  │      │      HarmonyOS_Sans_SC_Thin.ttf
+│  │      │      LICENSE.txt
+│  │      │      
+│  │      └─HarmonyOS_Sans_TC
+│  │              HarmonyOS_Sans_TC_Black.ttf
+│  │              HarmonyOS_Sans_TC_Bold.ttf
+│  │              HarmonyOS_Sans_TC_Light.ttf
+│  │              HarmonyOS_Sans_TC_Medium.ttf
+│  │              HarmonyOS_Sans_TC_Regular.ttf
+│  │              HarmonyOS_Sans_TC_Thin.ttf
+│  │              LICENSE.txt
+│  │              
+│  ├─OPPO Sans Font
+│  │      OPPOSans-B.ttf
+│  │      OPPOSans-H.ttf
+│  │      OPPOSans-L.ttf
+│  │      OPPOSans-M.ttf
+│  │      OPPOSans-R.ttf
+│  │      
+│  ├─VIVO type
+│  │      vivo type CN简 Bold.otf
+│  │      vivo type CN简 Light.otf
+│  │      vivo type CN简 Regular.otf
+│  │      vivo type CN繁 Bold.otf
+│  │      vivo type CN繁 Light.otf
+│  │      vivo type CN繁 Regular.otf
+│  │      vivotypeAR-beta-Bold.otf
+│  │      vivotypeAR-beta-Light.otf
+│  │      vivotypeAR-beta-Regular.otf
+│  │      vivotypeAR-beta-Semibold.otf
+│  │      vivotypeAR-beta-Thin.otf
+│  │      
+│  ├─喜茶灵感体
+│  │      HeyFont-bold.otf
+│  │      HeyFont-regular.otf
+│  │      
+│  ├─小米MiSans
+│  │  ├─MiSans 开发下载字重
+│  │  │      .DS_Store
+│  │  │      MiSans-Bold.ttf
+│  │  │      MiSans-Demibold.ttf
+│  │  │      MiSans-ExtraLight.ttf
+│  │  │      MiSans-Heavy.ttf
+│  │  │      MiSans-Light.ttf
+│  │  │      MiSans-Medium.ttf
+│  │  │      MiSans-Normal.ttf
+│  │  │      MiSans-Regular.ttf
+│  │  │      MiSans-Semibold.ttf
+│  │  │      MiSans-Thin.ttf
+│  │  │      
+│  │  └─__MACOSX
+│  │      │  ._MiSans 开发下载字重
+│  │      │  
+│  │      └─MiSans 开发下载字重
+│  │              ._.DS_Store
+│  │              ._MiSans-Bold.ttf
+│  │              ._MiSans-Demibold.ttf
+│  │              ._MiSans-ExtraLight.ttf
+│  │              ._MiSans-Heavy.ttf
+│  │              ._MiSans-Light.ttf
+│  │              ._MiSans-Medium.ttf
+│  │              ._MiSans-Normal.ttf
+│  │              ._MiSans-Regular.ttf
+│  │              ._MiSans-Semibold.ttf
+│  │              ._MiSans-Thin.ttf
+│  │              
+│  ├─御泥坊盛唐体
+│  │      Unifon-ST_GBK.fd4292b.ttf
+│  │      御泥坊盛唐体 .ttf
+│  │      
+│  ├─斯柯达体2.0
+│  │      斯柯达体2.0加粗.ttf
+│  │      斯柯达体2.0常规.ttf
+│  │      斯柯达体2.0粗.ttf
+│  │      斯柯达体2.0细.ttf
+│  │      
+│  ├─理想品牌字体
+│  │      LiciumFont2022-Bold.otf
+│  │      liciumfont2022-light.otf
+│  │      LiciumFont2022-Medium.otf
+│  │      LiciumFont2022-Normal.otf
+│  │      LiciumFont2022-Regular.otf
+│  │      licium_bold.ttf
+│  │      licium_light.ttf
+│  │      licium_medium.ttf
+│  │      licium_normal.ttf
+│  │      licium_regular.ttf
+│  │      
+│  ├─红旗旗妙体
+│  │      font_test_red_flag_variable.ttf
+│  │      hongqi type_-Bold.TTF
+│  │      hongqi type_-Light.TTF
+│  │      hongqi type_-Medium.TTF
+│  │      hongqi type_Regular.TTF
+│  │      QimiaoType-Normal.ttf
+│  │      Test红旗可变.ttf
+│  │      
+│  ├─美团体
+│  │      Meituan Type-Bold.TTF
+│  │      Meituan Type-Light.TTF
+│  │      Meituan Type-Regular.TTF
+│  │      
+│  ├─美的无界联动体
+│  │      MideaType-Bold.otf
+│  │      MideaType-Light.otf
+│  │      MideaType-Regular.otf
+│  │      
+│  ├─腾讯体
+│  │      腾讯体 W3.otf
+│  │      腾讯体 W7.ttf
+│  │      腾讯体.ttf
+│  │      
+│  ├─腾讯和平精英体
+│  │      腾讯和平精英体 Light.otf
+│  │      腾讯和平精英体Bold.ttf
+│  │      
+│  ├─花西子
+│  │      花西子粗体（简繁）.ttf
+│  │      花西子（简繁）.ttf
+│  │      
+│  ├─英雄钢笔定制字体
+│  │      英雄体英雄定制字体.ttf
+│  │      
+│  └─长安引力体
+│          长安引力体-Bold.ttf
+│          长安引力体-Light.ttf
+│          长安引力体-Regular.ttf
+│
 ├─Aa字库
 │      1.txt
 │      Aa188帅男团.ttf
@@ -1840,361 +2107,6 @@ ________________________________________________________________________________
 │      叶根友风帆特色简体.ttf
 │      叶根友飘然劲草繁.ttf
 │      
-├─昭和書体
-│      Ksoあけぼのakebono.ttf
-│      Ksoかぐや-KsoKaguya.ttf
-│      Ksoバサころ-KsoBasakoro.ttf
-│      Kso不動-KsoFudou.ttf
-│      Kso仙人KsoSennin.ttf
-│      KSO令明-KsoReimei.ttf
-│      KSO創.ttf
-│      Kso地蔵-KsoJizou.ttf
-│      Kso天空KsoTenku.ttf
-│      Kso天龍.ttf
-│      kso太楷書.ttf
-│      KSO太行書.ttf
-│      kso如来.ttf
-│      Kso如来爽-KsoNyoraiSou.ttf
-│      Kso孔雀-KsoKujaku.ttf
-│      Kso寿鶴-KsoJukaku.ttf
-│      Kso弥勒-KsoMiroku.ttf
-│      Kso心龍 KsoShinryu.ttf
-│      Kso文殊-KsoMonju.ttf
-│      kso新太楷書.ttf
-│      Kso新豪龍.otf
-│      kso昇龍.ttf
-│      Kso昭和ひげ文字hige.ttf
-│      kso昭和勘亭流.ttf
-│      Kso昭和寄席文字-KsoYose.ttf
-│      Kso昭和楷書.ttf
-│      kso昭和行書.ttf
-│      Kso普賢ふげん-KsoFugen.ttf
-│      kso朱雀.ttf
-│      KSO栄泉太楷書-KsoEikaiFuto.ttf
-│      kso栄泉楷書.ttf
-│      kso栄泉楷行書.ttf
-│      Kso泥姫-KsoDorohime.ttf
-│      kso清龍.ttf
-│      kso滝.ttf
-│      Kso玄武 KsoGenbu.ttf
-│      Kso白虎.ttf
-│      Kso白虎爽-KsoByakkoSou.ttf
-│      Kso白龍爽-KsoHakuryuSou.ttf
-│      kso白龙.ttf
-│      Kso翁-KsoOkina .ttf
-│      kso花墨.ttf
-│      kso花神.ttf
-│      Kso草龍-KsoSouryu.ttf
-│      Kso虚空蔵-KsoKokuuzou.ttf
-│      Kso観音-KsoKannon.ttf
-│      Kso豪龍爽-KsoGoryuSou.ttf
-│      Kso迅馬-KsoJinba.ttf
-│      Kso遊和-KsoYuai.ttf
-│      Kso遊隷-KsoYurei.ttf
-│      Kso金剛-KsoKongou.ttf
-│      Kso銀龍.ttf
-│      Kso闘龍.ttf
-│      Kso闘龍爽-KsoToryuSou.ttf
-│      Kso陽炎.ttf
-│      kso雲龍.ttf
-│      Kso雲龍爽-KsoUnryuSou.ttf
-│      KSO雷神体.otf
-│      Kso風来坊-KsoFuraibou.ttf
-│      Kso飛龍.ttf
-│      kso黄龙.ttf
-│      Kso黒龍.ttf
-│      Kso黒龍爽-KsoKokuryuSou.ttf
-│      Kso龍神改-KsoRyujin3.ttf
-│      kso龙神.ttf
-│      KswFujin风神.ttf
-│      KswReisho昭和隸書.ttf
-│      KswSeisi势至.ttf
-│      ksw文龍bunryu.ttf
-│      Ksw極太楷書.ttf
-│      Ksw般若.ttf
-│    
-├─大厂定制字体
-│  │  PUMA彪马 2022-2023.otf
-│  │  耐克密歇根字体Valiant.otf
-│  │  阿迪达斯世界杯球衣字体adicup-q-2022.ttf
-│  │  
-│  ├─HarmonyOS Sans
-│  │  └─HarmonyOS Sans
-│  │      ├─HarmonyOS_Sans
-│  │      │      HarmonyOS_Sans_Black.ttf
-│  │      │      HarmonyOS_Sans_Bold.ttf
-│  │      │      HarmonyOS_Sans_Light.ttf
-│  │      │      HarmonyOS_Sans_Medium.ttf
-│  │      │      HarmonyOS_Sans_Regular.ttf
-│  │      │      HarmonyOS_Sans_Thin.ttf
-│  │      │      LICENSE.txt
-│  │      │      
-│  │      ├─HarmonyOS_Sans_Condensed
-│  │      │      HarmonyOS_Sans_Condensed_Black.ttf
-│  │      │      HarmonyOS_Sans_Condensed_Bold.ttf
-│  │      │      HarmonyOS_Sans_Condensed_Light.ttf
-│  │      │      HarmonyOS_Sans_Condensed_Medium.ttf
-│  │      │      HarmonyOS_Sans_Condensed_Regular.ttf
-│  │      │      HarmonyOS_Sans_Condensed_Thin.ttf
-│  │      │      LICENSE.txt
-│  │      │      
-│  │      ├─HarmonyOS_Sans_Condensed_Italic
-│  │      │      HarmonyOS_Sans_Condensed_Black_Italic.ttf
-│  │      │      HarmonyOS_Sans_Condensed_Bold_Italic.ttf
-│  │      │      HarmonyOS_Sans_Condensed_Light_Italic.ttf
-│  │      │      HarmonyOS_Sans_Condensed_Medium_Italic.ttf
-│  │      │      HarmonyOS_Sans_Condensed_Regular_Italic.ttf
-│  │      │      HarmonyOS_Sans_Condensed_Thin_Italic.ttf
-│  │      │      LICENSE.txt
-│  │      │      
-│  │      ├─HarmonyOS_Sans_Italic
-│  │      │      HarmonyOS_Sans_Black_Italic.ttf
-│  │      │      HarmonyOS_Sans_Bold_Italic.ttf
-│  │      │      HarmonyOS_Sans_Light_Italic.ttf
-│  │      │      HarmonyOS_Sans_Medium_Italic.ttf
-│  │      │      HarmonyOS_Sans_Regular_Italic.ttf
-│  │      │      HarmonyOS_Sans_Thin_Italic.ttf
-│  │      │      LICENSE.txt
-│  │      │      
-│  │      ├─HarmonyOS_Sans_Naskh_Arabic
-│  │      │      HarmonyOS_Sans_Naskh_Arabic_Black.ttf
-│  │      │      HarmonyOS_Sans_Naskh_Arabic_Bold.ttf
-│  │      │      HarmonyOS_Sans_Naskh_Arabic_Light.ttf
-│  │      │      HarmonyOS_Sans_Naskh_Arabic_Medium.ttf
-│  │      │      HarmonyOS_Sans_Naskh_Arabic_Regular.ttf
-│  │      │      HarmonyOS_Sans_Naskh_Arabic_Thin.ttf
-│  │      │      LICENSE.txt
-│  │      │      
-│  │      ├─HarmonyOS_Sans_Naskh_Arabic_UI
-│  │      │      HarmonyOS_Sans_Naskh_Arabic_UI_Black.ttf
-│  │      │      HarmonyOS_Sans_Naskh_Arabic_UI_Bold.ttf
-│  │      │      HarmonyOS_Sans_Naskh_Arabic_UI_Light.ttf
-│  │      │      HarmonyOS_Sans_Naskh_Arabic_UI_Medium.ttf
-│  │      │      HarmonyOS_Sans_Naskh_Arabic_UI_Regular.ttf
-│  │      │      HarmonyOS_Sans_Naskh_Arabic_UI_Thin.ttf
-│  │      │      LICENSE.txt
-│  │      │      
-│  │      ├─HarmonyOS_Sans_SC
-│  │      │      HarmonyOS_Sans_SC_Black.ttf
-│  │      │      HarmonyOS_Sans_SC_Bold.ttf
-│  │      │      HarmonyOS_Sans_SC_Light.ttf
-│  │      │      HarmonyOS_Sans_SC_Medium.ttf
-│  │      │      HarmonyOS_Sans_SC_Regular.ttf
-│  │      │      HarmonyOS_Sans_SC_Thin.ttf
-│  │      │      LICENSE.txt
-│  │      │      
-│  │      └─HarmonyOS_Sans_TC
-│  │              HarmonyOS_Sans_TC_Black.ttf
-│  │              HarmonyOS_Sans_TC_Bold.ttf
-│  │              HarmonyOS_Sans_TC_Light.ttf
-│  │              HarmonyOS_Sans_TC_Medium.ttf
-│  │              HarmonyOS_Sans_TC_Regular.ttf
-│  │              HarmonyOS_Sans_TC_Thin.ttf
-│  │              LICENSE.txt
-│  │              
-│  ├─OPPO Sans Font
-│  │      OPPOSans-B.ttf
-│  │      OPPOSans-H.ttf
-│  │      OPPOSans-L.ttf
-│  │      OPPOSans-M.ttf
-│  │      OPPOSans-R.ttf
-│  │      
-│  ├─VIVO type
-│  │      vivo type CN简 Bold.otf
-│  │      vivo type CN简 Light.otf
-│  │      vivo type CN简 Regular.otf
-│  │      vivo type CN繁 Bold.otf
-│  │      vivo type CN繁 Light.otf
-│  │      vivo type CN繁 Regular.otf
-│  │      vivotypeAR-beta-Bold.otf
-│  │      vivotypeAR-beta-Light.otf
-│  │      vivotypeAR-beta-Regular.otf
-│  │      vivotypeAR-beta-Semibold.otf
-│  │      vivotypeAR-beta-Thin.otf
-│  │      
-│  ├─喜茶灵感体
-│  │      HeyFont-bold.otf
-│  │      HeyFont-regular.otf
-│  │      
-│  ├─小米MiSans
-│  │  ├─MiSans 开发下载字重
-│  │  │      .DS_Store
-│  │  │      MiSans-Bold.ttf
-│  │  │      MiSans-Demibold.ttf
-│  │  │      MiSans-ExtraLight.ttf
-│  │  │      MiSans-Heavy.ttf
-│  │  │      MiSans-Light.ttf
-│  │  │      MiSans-Medium.ttf
-│  │  │      MiSans-Normal.ttf
-│  │  │      MiSans-Regular.ttf
-│  │  │      MiSans-Semibold.ttf
-│  │  │      MiSans-Thin.ttf
-│  │  │      
-│  │  └─__MACOSX
-│  │      │  ._MiSans 开发下载字重
-│  │      │  
-│  │      └─MiSans 开发下载字重
-│  │              ._.DS_Store
-│  │              ._MiSans-Bold.ttf
-│  │              ._MiSans-Demibold.ttf
-│  │              ._MiSans-ExtraLight.ttf
-│  │              ._MiSans-Heavy.ttf
-│  │              ._MiSans-Light.ttf
-│  │              ._MiSans-Medium.ttf
-│  │              ._MiSans-Normal.ttf
-│  │              ._MiSans-Regular.ttf
-│  │              ._MiSans-Semibold.ttf
-│  │              ._MiSans-Thin.ttf
-│  │              
-│  ├─御泥坊盛唐体
-│  │      Unifon-ST_GBK.fd4292b.ttf
-│  │      御泥坊盛唐体 .ttf
-│  │      
-│  ├─斯柯达体2.0
-│  │      斯柯达体2.0加粗.ttf
-│  │      斯柯达体2.0常规.ttf
-│  │      斯柯达体2.0粗.ttf
-│  │      斯柯达体2.0细.ttf
-│  │      
-│  ├─理想品牌字体
-│  │      LiciumFont2022-Bold.otf
-│  │      liciumfont2022-light.otf
-│  │      LiciumFont2022-Medium.otf
-│  │      LiciumFont2022-Normal.otf
-│  │      LiciumFont2022-Regular.otf
-│  │      licium_bold.ttf
-│  │      licium_light.ttf
-│  │      licium_medium.ttf
-│  │      licium_normal.ttf
-│  │      licium_regular.ttf
-│  │      
-│  ├─红旗旗妙体
-│  │      font_test_red_flag_variable.ttf
-│  │      hongqi type_-Bold.TTF
-│  │      hongqi type_-Light.TTF
-│  │      hongqi type_-Medium.TTF
-│  │      hongqi type_Regular.TTF
-│  │      QimiaoType-Normal.ttf
-│  │      Test红旗可变.ttf
-│  │      
-│  ├─美团体
-│  │      Meituan Type-Bold.TTF
-│  │      Meituan Type-Light.TTF
-│  │      Meituan Type-Regular.TTF
-│  │      
-│  ├─美的无界联动体
-│  │      MideaType-Bold.otf
-│  │      MideaType-Light.otf
-│  │      MideaType-Regular.otf
-│  │      
-│  ├─腾讯体
-│  │      腾讯体 W3.otf
-│  │      腾讯体 W7.ttf
-│  │      腾讯体.ttf
-│  │      
-│  ├─腾讯和平精英体
-│  │      腾讯和平精英体 Light.otf
-│  │      腾讯和平精英体Bold.ttf
-│  │      
-│  ├─花西子
-│  │      花西子粗体（简繁）.ttf
-│  │      花西子（简繁）.ttf
-│  │      
-│  ├─英雄钢笔定制字体
-│  │      英雄体英雄定制字体.ttf
-│  │      
-│  └─长安引力体
-│          长安引力体-Bold.ttf
-│          长安引力体-Light.ttf
-│          长安引力体-Regular.ttf
-│          
-├─字家字库
-│      1.txt
-│      字家一川行楷.ttf
-│      字家俊逸体.ttf
-│      字家可口可爱体.ttf
-│      字家墨燃体.ttf
-│      字家天真体.ttf
-│      字家妙语体.ttf
-│      字家小清新.ttf
-│      字家少年体.ttf
-│      字家尖锋楷书.ttf
-│      字家山岚体.ttf
-│      字家思君体简.ttf
-│      字家情长行书简.ttf
-│      字家惜别行楷.ttf
-│      字家意蕴体.ttf
-│      字家拙宋.ttf
-│      字家拙黑.ttf
-│      字家时雨行楷.ttf
-│      字家星河体.ttf
-│      字家暖阳体.ttf
-│      字家江南体.ttf
-│      字家泡泡龙.ttf
-│      字家浩瀚体.ttf
-│      字家浮光体.ttf
-│      字家润楷黑.ttf
-│      字家清韵体.ttf
-│      字家滔滔体.ttf
-│      字家漫书体.ttf
-│      字家灵越楷体.ttf
-│      字家烟雨体.ttf
-│      字家熙然体.ttf
-│      字家玲珑锐楷.ttf
-│      字家琉璃行书.ttf
-│      字家瑞鹤金书.ttf
-│      字家知秋手信.ttf
-│      字家禅语体.ttf
-│      字家童年体.ttf
-│      字家童颜体.ttf
-│      字家翩翩体.ttf
-│      字家腾云体.ttf
-│      字家花语体.ttf
-│      字家萌书体.ttf
-│      字家萌然体.ttf
-│      字家萌趣体.ttf
-│      字家追忆体.ttf
-│      字家逍遥草书.ttf
-│      字家锦书体.ttf
-│      字家随风体.ttf
-│      字家隶行者.ttf
-│      字家韶华体.ttf
-│      字家飘渺体.ttf
-│      
-├─字心坊字库
-│      1.txt
-│      字心坊POP团圆体.ttf
-│      字心坊亭山体常规体.ttf
-│      字心坊初恋物语.ttf
-│      字心坊夏木体.ttf
-│      字心坊夏梦手书.ttf
-│      字心坊小令体常规体.ttf
-│      字心坊小令体细体.ttf
-│      字心坊小呀小布丁20190119.ttf
-│      字心坊明刻本(古籍版).ttf
-│      字心坊明刻本.ttf
-│      字心坊梦幻哥特体.ttf
-│      字心坊江南体.ttf
-│      字心坊猫的天空之城.ttf
-│      字心坊猫的天空之城（特别定制版）.ttf
-│      字心坊童年体.ttf
-│      字心坊童梦奇缘W.ttf
-│      字心坊绅士黑.ttf
-│      字心坊萌喵体.ttf
-│      字心坊萌新体.ttf
-│      字心坊诗雅体常规体.ttf
-│      字心坊诗雅体特细体.ttf
-│      字心坊诗雅体纤细体.ttf
-│      字心坊诗雅体细体.ttf
-│      字心坊轩雅体特细体.ttf
-│      字心坊轩雅体纤细体.ttf
-│      字心坊轩雅体细体.ttf
-│      字心坊轩雅常规体.ttf
-│      字心坊青春体.ttf
-│      字心坊韵圆体.ttf
-│      字心坊鸿潮榜书.ttf
-│      左岸恋人.ttf
-│      软萌小果冻.ttf
 │      
 ├─字灵字库
 │      1.txt
@@ -2240,422 +2152,7 @@ ________________________________________________________________________________
 │      字灵青云手书.TTF
 │      字灵风云手书.TTF
 │      
-├─字语字库
-│      1.txt
-│      字语云梦手书.ttf
-│      字语云黑宋.ttf
-│      字语俊然体.ttf
-│      字语俊逸行书.ttf
-│      字语俊隶体.ttf
-│      字语倩影体.ttf
-│      字语傲雪硬笔.ttf
-│      字语刚毅宋.ttf
-│      字语初夏体.ttf
-│      字语初心体.ttf
-│      字语劲墨行楷.ttf
-│      字语华风手书.ttf
-│      字语叙黑体.ttf
-│      字语可蓝体.ttf
-│      字语告白体.ttf
-│      字语咏乐体.ttf
-│      字语咏宋体.ttf
-│      字语咏宏体.ttf
-│      字语咏怀体.ttf
-│      字语咏楷体.ttf
-│      字语嘟嘟体.ttf
-│      字语国文楷书.ttf
-│      字语墨韵手书.ttf
-│      字语墨黑体.ttf
-│      字语家书体.ttf
-│      字语小可体.ttf
-│      字语小果体.ttf
-│      字语康宋体.ttf
-│      字语恋花体.ttf
-│      字语手书宋.ttf
-│      字语文乐体 Light.ttf
-│      字语文乐体 Regular.ttf
-│      字语文刻体.ttf
-│      字语文圆体 Bold.ttf
-│      字语文圆体 Light.ttf
-│      字语文圆体 Regular.ttf
-│      字语文墨体.ttf
-│      字语文宋体.ttf
-│      字语文津体.ttf
-│      字语文淑体.ttf
-│      字语文清体.ttf
-│      字语文潮体.ttf
-│      字语文畅体.ttf
-│      字语文趣体.ttf
-│      字语文跃体.ttf
-│      字语文风体.ttf
-│      字语时光体.ttf
-│      字语明媚体.ttf
-│      字语星海月落.ttf
-│      字语朝歌体.ttf
-│      字语松果体.ttf
-│      字语染萌体.ttf
-│      字语流月体.ttf
-│      字语流金体.ttf
-│      字语浮生归雁.ttf
-│      字语清平体.ttf
-│      字语清泠体.ttf
-│      字语清烟体.ttf
-│      字语清舞体.ttf
-│      字语漫卷体.ttf
-│      字语潇湘行书.ttf
-│      字语烈酒手迹.ttf
-│      字语爱你穿越人海.ttf
-│      字语玩墨体.ttf
-│      字语相思体.ttf
-│      字语童谣体.ttf
-│      字语素笺体.ttf
-│      字语紫花雨.ttf
-│      字语纤雅书.ttf
-│      字语羲和手书.ttf
-│      字语羽宋体.ttf
-│      字语聆风手书.ttf
-│      字语自在随心体.ttf
-│      字语萌动体.ttf
-│      字语萌酱体.ttf
-│      字语软糖体.ttf
-│      字语酷玩体.ttf
-│      字语酷黑体.ttf
-│      字语阁语体.ttf
-│      字语青梅硬笔.ttf
-│      字语颐宋体.ttf
-│      字语颖黑体.ttf
-│      字语飞扬行书.ttf
-│      字语香雪煮茶.ttf
-│      
-├─字趣字库
-│      字趣创客体.TTF
-│      字趣呢喃体.TTF
-│      字趣多多体.TTF
-│      字趣天天向上体.TTF
-│      字趣奇妙物语.TTF
-│      字趣小小星球.ttf
-│      字趣形影体.TTF
-│      字趣星空恋人.TTF
-│      字趣桔梗体.TTF
-│      字趣波动体.TTF
-│      字趣清荷体.TTF
-│      字趣漫书体.TTF
-│      字趣童心体.TTF
-│      字趣芝芝芒果体.TTF
-│      字趣超前体.TTF
-│      字趣逗逗体.TTF
-│      字趣酷影体.TTF
-│      字趣风信子.TTF
-│      字趣麻雀体.TTF
-│      字趣龙猫体.TTF
-│      
-├─字魂300款
-│      081号-迷彩集结号.ttf
-│      1.txt
-│      1001号-丹青行书.ttf
-│      1008号-梅花手书.ttf
-│      100号-方方先锋体.ttf
-│      101号-小确幸.ttf
-│      1020号-琪然手书.ttf
-│      102号-妞妞体.ttf
-│      103号-海棠手书.ttf
-│      104号-书信体.ttf
-│      105号-简雅黑.ttf
-│      106号-萌趣露珠体.ttf
-│      107号-萌趣欢乐体.ttf
-│      108号-新潮卡通体.ttf
-│      1093号-安容手书.ttf
-│      109号-方格习字体.ttf
-│      10号-歌以晓手迹行楷体.ttf
-│      110号-武林江湖体.ttf
-│      111号-金榜招牌体.ttf
-│      1121号-又柔手书.ttf
-│      1125号-真瑜手书.ttf
-│      112号-阿开童漫体.ttf
-│      113号-呆萌少女体.ttf
-│      114号-新潮广告体.ttf
-│      115号-刀刀体.ttf
-│      116号-凤鸣手书.ttf
-│      117号-木兰体.ttf
-│      118号-淘气趣味体.ttf
-│      119号-天真儿风体.ttf
-│      120号-排笔手绘体.ttf
-│      121号-山海手书.ttf
-│      122号-七岁半.ttf
-│      123号-功夫体.ttf
-│      124号-澎湃体.ttf
-│      125号-九州真书.ttf
-│      126号-印章体.ttf
-│      127号-月岩体.ttf
-│      128号-武侠缥缈体.ttf
-│      129号-白鹤新风体.ttf
-│      130号-快乐俏黑体.ttf
-│      131号-酷乐潮玩体.ttf
-│      132号-江舟行客.ttf
-│      133号-墨客枯笔.ttf
-│      134号-蟠龙手书.ttf
-│      135号-云海行书.ttf
-│      136号-云腾手书.ttf
-│      137号-蝉影隶书.ttf
-│      138号-霸燃手书.ttf
-│      139号-萌趣芋圆体.ttf
-│      140号-狂傲行书.ttf
-│      141号-活力悦动体.ttf
-│      142号-小浣熊.ttf
-│      143号-正酷超级黑.ttf
-│      144号-朗圆体.ttf
-│      145号-正酷雪花黑.ttf
-│      146号-悠然字哉体.ttf
-│      147号-星愿黑.ttf
-│      148号-正酷魔方体.ttf
-│      149号-扁鹊黑.ttf
-│      150号-玉玺手刻体.ttf
-│      151号-联盟综艺体.ttf
-│      152号-机甲超级黑.ttf
-│      153号-如意剪纸体.ttf
-│      154号-锐艺黑.ttf
-│      155号-方趣体.ttf
-│      156号-萌趣苏打饼.ttf
-│      157号-萌趣兔兔.ttf
-│      158号-萌趣彩虹曲奇.ttf
-│      159号-古刻宋.ttf
-│      160号-檀宋.ttf
-│      161号-江户川招牌体.ttf
-│      162号-元气酪酪体.ttf
-│      163号-新潮黑板报.ttf
-│      164号-方悦黑.ttf
-│      165号-小白龙.ttf
-│      166号-趣味体.ttf
-│      167号-伊人黑.ttf
-│      168号-小茉莉.ttf
-│      169号-霓虹体.ttf
-│      16号-能源黑体.ttf
-│      170号-俊逸手书.ttf
-│      171号-风灵黑.ttf
-│      172号-萌趣莫莉体.ttf
-│      173号-千寻体.ttf
-│      174号-小白兔.ttf
-│      175号-创中圆.ttf
-│      176号-创粗圆.ttf
-│      177号-蓬莱手书.ttf
-│      178号-新潮卓越体.ttf
-│      179号-正酷波波体.ttf
-│      17号-萌趣果冻体.ttf
-│      180号-浩然手书.ttf
-│      181号-飞驰标题体.ttf
-│      182号-新潮卡酷黑.ttf
-│      183号-魔力圈圈体.ttf
-│      184号-银翼创世黑.ttf
-│      185号-状元榜书.ttf
-│      186号-江户雪云体.ttf
-│      187号-萌趣幸运体.ttf
-│      188号-星驰闪电体.ttf
-│      189号-星岩乐黑体.ttf
-│      18号-小恐龙体.ttf
-│      190号-童年画板体.ttf
-│      191号-奶油雪糕体.ttf
-│      192号-萌趣蜡笔体.ttf
-│      193号-文宋复古体.ttf
-│      194号-萌趣繁星体.ttf
-│      195号-萌趣百奇体.ttf
-│      196号-大明宋.ttf
-│      197号-大明宋（怀旧版）.ttf
-│      198号-萌趣小豆丁.ttf
-│      199号-萌趣脆脆体.ttf
-│      19号-行云飞白体.ttf
-│      1号-中国字魂.ttf
-│      201号-萌趣樱花体.ttf
-│      202号-咆哮体.ttf
-│      203号-新潮波纹体.ttf
-│      204号-快乐积木体.ttf
-│      206号-江汉手书.ttf
-│      207号-铁甲智能黑.ttf
-│      208号-新潮前卫体.ttf
-│      209号-月影手书.ttf
-│      20号-石头体.ttf
-│      210号-国风少年体.ttf
-│      211号-快乐星球体.ttf
-│      213号-琉璃宋.ttf
-│      214号-童话故事体.ttf
-│      215号-清平手书.ttf
-│      216号-文艺先锋体.ttf
-│      217号-京都和风体.ttf
-│      218号-文艺清新体.ttf
-│      219号-萌趣萝莉体.ttf
-│      21号-不齐素圆体.ttf
-│      220号-鸿雁手书.ttf
-│      221号-浪潮立影体.ttf
-│      222号-萌趣哈哈宋.ttf
-│      223号-夏日吉星体.ttf
-│      224号-光点浣熊体.ttf
-│      225号-暮云手书.ttf
-│      226号-国潮手书（混沌版）.ttf
-│      227号-萌趣萝卜体.ttf
-│      228号-壹心手书.ttf
-│      229号-云瑶体.ttf
-│      22号-文宋体.ttf
-│      230号-快乐萌新体.ttf
-│      231号-吐槽星人体.ttf
-│      232号-彩虹高光体.ttf
-│      233号-萌趣喜悦体.ttf
-│      234号-灵动布丁体.ttf
-│      235号-千纸鹤.ttf
-│      236号-萌趣不倒翁.ttf
-│      237号-玉兰手书.ttf
-│      238号-机械体.ttf
-│      239号-御风手书.ttf
-│      23号-新文宋.ttf
-│      240号-清梦手书.ttf
-│      241号-秋枫体.ttf
-│      242号-云游手书.ttf
-│      243号-钻石体.ttf
-│      244号-柚子体.ttf
-│      245号-飞羽行书.ttf
-│      246号-苍穹手书.ttf
-│      247号-经典雅黑(漆版).ttf
-│      248号-云烟手书.ttf
-│      249号-萌趣月饼体.ttf
-│      24号-镇魂手书.ttf
-│      250号-烈焰手书.ttf
-│      251号-金陵手书.ttf
-│      252号-凤仪手书.ttf
-│      253号-萌趣跳跳蛙.ttf
-│      254号-萌趣天真体.ttf
-│      255号-波纹艺术黑.ttf
-│      256号-律动黑.ttf
-│      257号-妙语手书.ttf
-│      258号-儿歌体.ttf
-│      259号-彩虹气球体.ttf
-│      25号-凌云体.ttf
-│      260号-新潮飞跃体.ttf
-│      261号-纸飞机.ttf
-│      262号-卡通体.ttf
-│      263号-砂糖体.ttf
-│      264号-心动体.ttf
-│      265号-绫纱黑.ttf
-│      266号-绅士黑.ttf
-│      267号-朋克黑.ttf
-│      26号-小情人体.ttf
-│      270号-龙门手书.ttf
-│      271号-王朝体.ttf
-│      272号-群英体.ttf
-│      27号-布丁体.ttf
-│      29号-火柴棒体.ttf
-│      2号-力量粗黑体.ttf
-│      3014号-芒果体.ttf
-│      31号-凝宋.ttf
-│      329号-萌熊体.ttf
-│      32号-汪子义星座体.ttf
-│      33号-涂鸦体.ttf
-│      34号-少年和风体.ttf
-│      35号-经典雅黑.ttf
-│      36号-正文宋楷.ttf
-│      37号-波纹乖乖体.ttf
-│      38号-毓秀小楷体.ttf
-│      39号-肥宅快乐体.ttf
-│      3号-英雄黑体.ttf
-│      40号-小城非凡体.ttf
-│      41号-粗细体.ttf
-│      42号-空心宋楷.ttf
-│      4396号-壹心节律体.ttf
-│      43号-国潮手书.ttf
-│      442号-黑金体.ttf
-│      443号-魅动黑.ttf
-│      444号-头号玩家.ttf
-│      4450号-芝麻体.ttf
-│      445号-轻吟体.ttf
-│      446号-梦幻体.ttf
-│      44号-空心雅黑.ttf
-│      4551号-元气满满体.ttf
-│      4552号-斗罗体.ttf
-│      4553号-嘻哈潮体.ttf
-│      45号-冰宇雅宋.ttf
-│      46号-喵喵体.ttf
-│      47号-三分行楷.ttf
-│      48号-半天云魅黑手书.ttf
-│      49号-逍遥行书.ttf
-│      4号-苍劲行楷体.ttf
-│      5035号-凤飞儿体.ttf
-│      50号-白鸽天行体.ttf
-│      51号-青青子吟体.ttf
-│      52号-阿开漫画体.ttf
-│      536号-超级能源体.ttf
-│      537号-萌萌哒体.ttf
-│      53号-云霄体.ttf
-│      54号-贤黑.ttf
-│      55号-龙吟手书.ttf
-│      55号-龙吟手书旧版（烤字区别）.ttf
-│      56号-洪亮毛笔隶书简体.ttf
-│      57号-创细黑.ttf
-│      58号-创中黑.ttf
-│      59号-创粗黑.ttf
-│      5号-无外润黑体.ttf
-│      600号-天工宋.ttf
-│      601号-寒山宋.ttf
-│      602号-云锦宋.ttf
-│      60号-梦想手札体.ttf
-│      62号-瘦金体.ttf
-│      63号-泡泡体.ttf
-│      64号-萌趣软糖体.ttf
-│      65号-时光手札体.ttf
-│      66号-仔仔体.ttf
-│      67号-勾玉行书.ttf
-│      68号-凌春行书.ttf
-│      69号-婀娜体.ttf
-│      6号-日记插画体.ttf
-│      70号-灵悦黑体.ttf
-│      71号-御守锦书.ttf
-│      72号-初林体.ttf
-│      73号-江南手书.ttf
-│      74号-飞墨手书.ttf
-│      75号-柳叶竹眉体.ttf
-│      76号-飞鸟体.ttf
-│      78号-空灵体.ttf
-│      79号-萌趣奶油体.ttf
-│      7号-温暖童稚体.ttf
-│      80号-萌趣小鱼体.ttf
-│      81192号-返航体.ttf
-│      81号-清风体.ttf
-│      82号-萌趣丫丫体.ttf
-│      83号-芷兰体.ttf
-│      84号-云溪锦书.ttf
-│      85号-清韵手札体.ttf
-│      86号-杨任东楷书.ttf
-│      87号-乾坤手书.ttf
-│      88号-漆书.ttf
-│      89号-秀竹手书.ttf
-│      8号-珍珠奶茶体.ttf
-│      90号-萌趣甜心体.ttf
-│      91号-萌趣小可爱.ttf
-│      92号-新潮海报体.ttf
-│      93号-萌趣小丸子.ttf
-│      94号-豆芽体.ttf
-│      95号-手刻宋.ttf
-│      96号-虎啸手书.ttf
-│      97号-惊鸿手书.ttf
-│      985号-天道酬勤体.ttf
-│      98号-菱方体.ttf
-│      99号-仝斌手书.ttf
-│      妙笔仙昊体.ttf
-│      妙笔卡酷波动体.ttf
-│      妙笔如波手书.ttf
-│      妙笔怀芹手书.ttf
-│      妙笔昂然手书.ttf
-│      妙笔白华手书.ttf
-│      妙笔芳芳手书.ttf
-│      妙笔茵茵手书.ttf
-│      妙笔虹英手书.ttf
-│      妙笔贵耀体.ttf
-│      妙笔趣味波音体.ttf
-│      妙笔飞兰手书.ttf
-│      妙笔高寒手书.ttf
-│      字魂悲伤蛙体.ttf
-│      字魂樱花少女体.ttf
-│      字魂独角兽体.ttf
-│      字魂萌芽熊体.ttf
-│      字魂蜜桃猫体.ttf
-│      字魂醒狮体.ttf
-│      萌趣风浪体.ttf
+
 │      
 ├─字魂全站字体
 │  ├─1-100号
@@ -9427,80 +8924,205 @@ ________________________________________________________________________________
 │      锐字龙书驰黑简-闪 细体(REEJI-FlashSansGB-Flash-Light).ttf
 │      锐字龙书驰黑简-闪 超粗(REEJI-FlashSansGB-Flash-Heavy).ttf
 │      
-├─黄油相机字体
+
+│ 
+├─字家字库
 │      1.txt
-│      郑庆科黄油体.ttf
-│      黄油像素体.ttf
-│      黄油啵啵体-Bold.otf
-│      黄油啵啵体.otf
-│      黄油拾叁体.ttf
-│      黄油溏心体-斜体.ttf
-│      黄油溏心体800-Bold.ttf
-│      黄油面包体.ttf
-│      黄油鹿柯珂体.otf
-│      黄油鹿柯珂体.ttf
+│      字家一川行楷.ttf
+│      字家俊逸体.ttf
+│      字家可口可爱体.ttf
+│      字家墨燃体.ttf
+│      字家天真体.ttf
+│      字家妙语体.ttf
+│      字家小清新.ttf
+│      字家少年体.ttf
+│      字家尖锋楷书.ttf
+│      字家山岚体.ttf
+│      字家思君体简.ttf
+│      字家情长行书简.ttf
+│      字家惜别行楷.ttf
+│      字家意蕴体.ttf
+│      字家拙宋.ttf
+│      字家拙黑.ttf
+│      字家时雨行楷.ttf
+│      字家星河体.ttf
+│      字家暖阳体.ttf
+│      字家江南体.ttf
+│      字家泡泡龙.ttf
+│      字家浩瀚体.ttf
+│      字家浮光体.ttf
+│      字家润楷黑.ttf
+│      字家清韵体.ttf
+│      字家滔滔体.ttf
+│      字家漫书体.ttf
+│      字家灵越楷体.ttf
+│      字家烟雨体.ttf
+│      字家熙然体.ttf
+│      字家玲珑锐楷.ttf
+│      字家琉璃行书.ttf
+│      字家瑞鹤金书.ttf
+│      字家知秋手信.ttf
+│      字家禅语体.ttf
+│      字家童年体.ttf
+│      字家童颜体.ttf
+│      字家翩翩体.ttf
+│      字家腾云体.ttf
+│      字家花语体.ttf
+│      字家萌书体.ttf
+│      字家萌然体.ttf
+│      字家萌趣体.ttf
+│      字家追忆体.ttf
+│      字家逍遥草书.ttf
+│      字家锦书体.ttf
+│      字家随风体.ttf
+│      字家隶行者.ttf
+│      字家韶华体.ttf
+│      字家飘渺体.ttf
 │      
-├─默陌字体
+├─字心坊字库
 │      1.txt
-│      傲娇公举体.ttf
-│      小豆岛默陌肥圆手写.otf
-│      年少轻狂青春体.ttf
-│      游梦手迹.ttf
-│      逗你玩趣黑体.ttf
-│      闲云清茶体.ttf
-│      青呱圆萌体.ttf
-│      青春狂躁体.ttf
-│      静墨飘逸体.ttf
-│      飞墨侠客体.ttf
-│      默陌专辑手写体.ttf
-│      默陌信笺手写体.ttf
-│      默陌剑影钢笔体.ttf
-│      默陌劲道体.ttf
-│      默陌咿呀体.ttf
-│      默陌山魂手迹.ttf
-│      默陌心晴手写体.ttf
-│      默陌怪侠体.ttf
-│      默陌拉面体.ttf
-│      默陌月芽体.ttf
-│      默陌流云快哉体.ttf
-│      默陌流梦手写体.ttf
-│      默陌海鲸手迹.ttf
-│      默陌清浪草签体.ttf
-│      默陌清风隶.ttf
-│      默陌游梦手迹.ttf
-│      默陌漫游体.ttf
-│      默陌狂傲手迹.ttf
-│      默陌狂飞侠客体.ttf
-│      默陌狂飞溅墨版.ttf
-│      默陌珠雅隶.ttf
-│      默陌硬笔手写体.ttf
-│      默陌硬笔手写体粗.ttf
-│      默陌童画体.ttf
-│      默陌纸笺手迹.ttf
-│      默陌纸鸢草书简 常规.ttf
-│      默陌纸鸢行草书加粗 .ttf
-│      默陌绿妖体.ttf
-│      默陌绿豆手写体.ttf
-│      默陌缱绻体.ttf
-│      默陌老屋手迹.ttf
-│      默陌肥圆手写体.ttf
-│      默陌致远手写体.ttf
-│      默陌苍穹云书.ttf
-│      默陌茶思幽然笔迹.ttf
-│      默陌荒草体溅墨版.ttf
-│      默陌荒草手迹.ttf
-│      默陌菩提禅书.ttf
-│      默陌追风手写体.ttf
-│      默陌追风手写体精修.ttf
-│      默陌逐光者手迹.ttf
-│      默陌随想体.ttf
-│      默陌雅诗手迹.ttf
-│      默陌雨中漫步.ttf
-│      默陌静斋笔迹.ttf
-│      默陌风雨欣游体.ttf
-│      默陌魔师道影体.ttf
-│      默陌麦芒体.ttf
+│      字心坊POP团圆体.ttf
+│      字心坊亭山体常规体.ttf
+│      字心坊初恋物语.ttf
+│      字心坊夏木体.ttf
+│      字心坊夏梦手书.ttf
+│      字心坊小令体常规体.ttf
+│      字心坊小令体细体.ttf
+│      字心坊小呀小布丁20190119.ttf
+│      字心坊明刻本(古籍版).ttf
+│      字心坊明刻本.ttf
+│      字心坊梦幻哥特体.ttf
+│      字心坊江南体.ttf
+│      字心坊猫的天空之城.ttf
+│      字心坊猫的天空之城（特别定制版）.ttf
+│      字心坊童年体.ttf
+│      字心坊童梦奇缘W.ttf
+│      字心坊绅士黑.ttf
+│      字心坊萌喵体.ttf
+│      字心坊萌新体.ttf
+│      字心坊诗雅体常规体.ttf
+│      字心坊诗雅体特细体.ttf
+│      字心坊诗雅体纤细体.ttf
+│      字心坊诗雅体细体.ttf
+│      字心坊轩雅体特细体.ttf
+│      字心坊轩雅体纤细体.ttf
+│      字心坊轩雅体细体.ttf
+│      字心坊轩雅常规体.ttf
+│      字心坊青春体.ttf
+│      字心坊韵圆体.ttf
+│      字心坊鸿潮榜书.ttf
+│      左岸恋人.ttf
+│      软萌小果冻.ttf
+├─字语字库
+│      1.txt
+│      字语云梦手书.ttf
+│      字语云黑宋.ttf
+│      字语俊然体.ttf
+│      字语俊逸行书.ttf
+│      字语俊隶体.ttf
+│      字语倩影体.ttf
+│      字语傲雪硬笔.ttf
+│      字语刚毅宋.ttf
+│      字语初夏体.ttf
+│      字语初心体.ttf
+│      字语劲墨行楷.ttf
+│      字语华风手书.ttf
+│      字语叙黑体.ttf
+│      字语可蓝体.ttf
+│      字语告白体.ttf
+│      字语咏乐体.ttf
+│      字语咏宋体.ttf
+│      字语咏宏体.ttf
+│      字语咏怀体.ttf
+│      字语咏楷体.ttf
+│      字语嘟嘟体.ttf
+│      字语国文楷书.ttf
+│      字语墨韵手书.ttf
+│      字语墨黑体.ttf
+│      字语家书体.ttf
+│      字语小可体.ttf
+│      字语小果体.ttf
+│      字语康宋体.ttf
+│      字语恋花体.ttf
+│      字语手书宋.ttf
+│      字语文乐体 Light.ttf
+│      字语文乐体 Regular.ttf
+│      字语文刻体.ttf
+│      字语文圆体 Bold.ttf
+│      字语文圆体 Light.ttf
+│      字语文圆体 Regular.ttf
+│      字语文墨体.ttf
+│      字语文宋体.ttf
+│      字语文津体.ttf
+│      字语文淑体.ttf
+│      字语文清体.ttf
+│      字语文潮体.ttf
+│      字语文畅体.ttf
+│      字语文趣体.ttf
+│      字语文跃体.ttf
+│      字语文风体.ttf
+│      字语时光体.ttf
+│      字语明媚体.ttf
+│      字语星海月落.ttf
+│      字语朝歌体.ttf
+│      字语松果体.ttf
+│      字语染萌体.ttf
+│      字语流月体.ttf
+│      字语流金体.ttf
+│      字语浮生归雁.ttf
+│      字语清平体.ttf
+│      字语清泠体.ttf
+│      字语清烟体.ttf
+│      字语清舞体.ttf
+│      字语漫卷体.ttf
+│      字语潇湘行书.ttf
+│      字语烈酒手迹.ttf
+│      字语爱你穿越人海.ttf
+│      字语玩墨体.ttf
+│      字语相思体.ttf
+│      字语童谣体.ttf
+│      字语素笺体.ttf
+│      字语紫花雨.ttf
+│      字语纤雅书.ttf
+│      字语羲和手书.ttf
+│      字语羽宋体.ttf
+│      字语聆风手书.ttf
+│      字语自在随心体.ttf
+│      字语萌动体.ttf
+│      字语萌酱体.ttf
+│      字语软糖体.ttf
+│      字语酷玩体.ttf
+│      字语酷黑体.ttf
+│      字语阁语体.ttf
+│      字语青梅硬笔.ttf
+│      字语颐宋体.ttf
+│      字语颖黑体.ttf
+│      字语飞扬行书.ttf
+│      字语香雪煮茶.ttf
 │      
+├─字趣字库
+│      字趣创客体.TTF
+│      字趣呢喃体.TTF
+│      字趣多多体.TTF
+│      字趣天天向上体.TTF
+│      字趣奇妙物语.TTF
+│      字趣小小星球.ttf
+│      字趣形影体.TTF
+│      字趣星空恋人.TTF
+│      字趣桔梗体.TTF
+│      字趣波动体.TTF
+│      字趣清荷体.TTF
+│      字趣漫书体.TTF
+│      字趣童心体.TTF
+│      字趣芝芝芒果体.TTF
+│      字趣超前体.TTF
+│      字趣逗逗体.TTF
+│      字趣酷影体.TTF
+│      字趣风信子.TTF
+│      字趣麻雀体.TTF
+│      字趣龙猫体.TTF
+│      
+
 ├─站酷字体
 │      1.txt
 │      刘兵克曦冉体.ttf
