@@ -1,9 +1,583 @@
 _______________________________________________________________________________________________________
 │                                                                                                      │ 
-│    按crl键+F键，查找更快捷                                                                             │ 
+│    按ctrl键+F键，查找更快捷                                                                             │ 
 _______________________________________________________________________________________________________│ 
 
+├─尔雅字体
+│      1.txt
+│      尔雅东方体.ttf
+│      尔雅俏皮熊.ttf
+│      尔雅元气森林.ttf
+│      尔雅凤凰手书.ttf
+│      尔雅创意黑.ttf
+│      尔雅双刀宋.ttf
+│      尔雅君临手书.ttf
+│      尔雅吟游宋.ttf
+│      尔雅启儒体.ttf
+│      尔雅吸睛POP体.ttf
+│      尔雅喵星人.ttf
+│      尔雅嘿嘿黑.ttf
+│      尔雅复古黑.ttf
+│      尔雅夏日雪糕体.ttf
+│      尔雅大上海.ttf
+│      尔雅大白体.ttf
+│      尔雅天问体.ttf
+│      尔雅太空探索号.ttf
+│      尔雅太空浪潮体.ttf
+│      尔雅奋斗体.ttf
+│      尔雅寻龙手书.ttf
+│      尔雅小新体.ttf
+│      尔雅山水隶书.ttf
+│      尔雅山河体.ttf
+│      尔雅岳麓宋.ttf
+│      尔雅平野黑.ttf
+│      尔雅康熙清刻.ttf
+│      尔雅开元黑.ttf
+│      尔雅恒星体.ttf
+│      尔雅悠悠体.ttf
+│      尔雅悦宋体.ttf
+│      尔雅擎天柱.ttf
+│      尔雅文楷.ttf
+│      尔雅新大黑.ttf
+│      尔雅新大黑-Bold.ttf
+│      尔雅新大黑-DemiBold.ttf
+│      尔雅新大黑-ExtraBold.ttf
+│      尔雅新大黑-ExtraLight.ttf
+│      尔雅新大黑-Light.ttf
+│      尔雅新大黑-Medium.ttf
+│      尔雅新大黑-Thin.ttf
+│      尔雅新综艺黑.ttf
+│      尔雅明月宋.ttf
+│      尔雅明月黑.ttf
+│      尔雅星云黑.ttf
+│      尔雅星光黑.ttf
+│      尔雅星火燎原体.ttf
+│      尔雅星耀黑.ttf
+│      尔雅星际旅行家.ttf
+│      尔雅春光体.ttf
+│      尔雅春然楷书.ttf
+│      尔雅木偶体.ttf
+│      尔雅未来体.ttf
+│      尔雅机甲风暴黑.ttf
+│      尔雅果冻体.ttf
+│      尔雅柳叶黑.ttf
+│      尔雅格鲁特.ttf
+│      尔雅棉花糖.ttf
+│      尔雅欢乐派对.ttf
+│      尔雅欢趣体.ttf
+│      尔雅正黑.ttf
+│      尔雅民国美术体.ttf
+│      尔雅江南宋.ttf
+│      尔雅沧濯手书.ttf
+│      尔雅泡泡体.ttf
+│      尔雅泡芙体.ttf
+│      尔雅洛隶体.ttf
+│      尔雅活力黑.ttf
+│      尔雅浪漫体.ttf
+│      尔雅润笔楷书.ttf
+│      尔雅清妍体.ttf
+│      尔雅烽火隶书.ttf
+│      尔雅爱丽丝.ttf
+│      尔雅爱趣宋.ttf
+│      尔雅猫咪体.ttf
+│      尔雅玄武体.ttf
+│      尔雅理想黑.ttf
+│      尔雅琥珀体.ttf
+│      尔雅瑞祥体.ttf
+│      尔雅甜心体.ttf
+│      尔雅电音体.ttf
+│      尔雅盛唐真书-简繁.ttf
+│      尔雅盛唐真书.ttf
+│      尔雅真知棒.ttf
+│      尔雅福禄宋.ttf
+│      尔雅秀丽楷书.ttf
+│      尔雅科技黑.ttf
+│      尔雅稻田守望者.ttf
+│      尔雅童梦体.ttf
+│      尔雅精英黑.ttf
+│      尔雅精言黑.ttf
+│      尔雅美龄宋.ttf
+│      尔雅翰林榜书.ttf
+│      尔雅胖丁体.ttf
+│      尔雅胭脂体.ttf
+│      尔雅荣耀手书.ttf
+│      尔雅蛟龙号.ttf
+│      尔雅蜜糖体.ttf
+│      尔雅蝴蝶体.ttf
+│      尔雅行宋.ttf
+│      尔雅装甲核心体.ttf
+│      尔雅豆沙体.ttf
+│      尔雅趣宋体.ttf
+│      尔雅轻松体.ttf
+│      尔雅远洋舰.ttf
+│      尔雅酷黑体.ttf
+│      尔雅镇远舰.ttf
+│      尔雅长乐体.ttf
+│      尔雅阳光体.ttf
+│      尔雅青梅隶书.ttf
+│      尔雅青花楷体.ttf
+│      尔雅青龙手书.ttf
+│      尔雅静思黑.ttf
+│      尔雅风华楷书.ttf
+│      尔雅风神体.ttf
+│      尔雅飞流体.ttf
+│      尔雅飞鸿楷书.ttf
+│      尔雅骆磊手书.ttf
+│      尔雅高效黑.ttf
+│      尔雅鲁班体.ttf
+│      尔雅鲲鹏体.ttf
+│      尔雅鸿儒体.ttf
+│      尔雅鸿运体.ttf
+│      尔雅龙虎榜书.ttf
+│   
+├─点字库
+│      1.txt
+│      点字QQ糖.TTF
+│      点字久竹体.TTF
+│      点字乐圆 35.TTF
+│      点字乐圆 45.TTF
+│      点字乐圆 55.TTF
+│      点字乐圆 65.TTF
+│      点字乐圆 75.TTF
+│      点字乐圆 85.TTF
+│      点字乐圆体.TTF
+│      点字云辰.ttf
+│      点字仙侠体.TTF
+│      点字俊隶.TTF
+│      点字倔强黑 50.TTF
+│      点字倔强黑 55.TTF
+│      点字倔强黑 60.TTF
+│      点字倔强黑 65.TTF
+│      点字倔强黑 70.TTF
+│      点字倔强黑 75.TTF
+│      点字倔强黑 80.TTF
+│      点字倔强黑 85.TTF
+│      点字倔强黑.TTF
+│      点字像素16.ttf
+│      点字像素之城.ttf
+│      点字典仿宋.TTF
+│      点字典仿宋粗.TTF
+│      点字典圆35.TTF
+│      点字典圆45.TTF
+│      点字典圆55.TTF
+│      点字典圆65.TTF
+│      点字典圆75.TTF
+│      点字典宋.TTF
+│      点字典宋粗.TTF
+│      点字典楷.TTF
+│      点字典楷粗.TTF
+│      点字典黑 35J.TTF
+│      点字典黑 45J.TTF
+│      点字典黑 55J.TTF
+│      点字典黑 65J.TTF
+│      点字典黑 75J.TTF
+│      点字凌厉体.TTF
+│      点字刻宋.TTF
+│      点字匹喏曹 35.ttf
+│      点字匹喏曹 45.ttf
+│      点字匹喏曹 55.ttf
+│      点字匹喏曹 65.ttf
+│      点字匹喏曹 75.ttf
+│      点字匹喏曹 85.ttf
+│      点字匹诺曹.TTF
+│      点字千福手书.TTF
+│      点字卡酷.ttf
+│      点字墩墩体.TTF
+│      点字夏乐体.TTF
+│      点字大字报.TTF
+│      点字奇妙体.TTF
+│      点字奇巧.ttf
+│      点字小熊猫.TTF
+│      点字小隶书.TTF
+│      点字少年.ttf
+│      点字山兰体.TTF
+│      点字山水行楷.TTF
+│      点字峰骨.TTF
+│      点字快乐体.ttf
+│      点字悠漫体.TTF
+│      点字手写漆书.TTF
+│      点字手写童真体.TTF
+│      点字拙然体.TTF
+│      点字敦肃 35.ttf
+│      点字敦肃 45.ttf
+│      点字敦肃 55.ttf
+│      点字敦肃 65.ttf
+│      点字敦肃 75.ttf
+│      点字敦肃 85.ttf
+│      点字敦肃 95.ttf
+│      点字敦肃体.TTF
+│      点字文人榜书.TTF
+│      点字方黑.ttf
+│      点字明刻本婉宋.TTF
+│      点字春意体.TTF
+│      点字晨颜行楷.TTF
+│      点字朗润体 繁.ttf
+│      点字朗润体.TTF
+│      点字机械体.TTF
+│      点字桃花诗体.TTF
+│      点字永胜粗宋.TTF
+│      点字江户招牌黑.TTF
+│      点字江湖体.TTF
+│      点字沐风体.TTF
+│      点字油漆体.TTF
+│      点字波波体.TTF
+│      点字浅夏体.otf
+│      点字浩魂.ttf
+│      点字淡墨行楷.TTF
+│      点字混元体.TTF
+│      点字漫黑 繁.ttf
+│      点字漫黑.TTF
+│      点字烈金体.TTF
+│      点字烈风.TTF
+│      点字焦糖体.TTF
+│      点字玄真宋.TTF
+│      点字王者风范.TTF
+│      点字疾风.TTF
+│      点字瘦金书.TTF
+│      点字禄军行楷.TTF
+│      点字秀圆体.TTF
+│      点字秀峰体.TTF
+│      点字稻草人.TTF
+│      点字童稚体.TTF
+│      点字简宋 35.ttf
+│      点字简宋 45.ttf
+│      点字简宋 55.ttf
+│      点字简宋 65.ttf
+│      点字简宋 75.ttf
+│      点字简宋 85 .ttf
+│      点字简宋 95.ttf
+│      点字简宋.TTF
+│      点字纯真体.TTF
+│      点字综艺 35.ttf
+│      点字综艺 45.ttf
+│      点字综艺 55.ttf
+│      点字综艺 65.ttf
+│      点字综艺 75.ttf
+│      点字综艺 85.ttf
+│      点字综艺 95.ttf
+│      点字综艺体.TTF
+│      点字美玲体.TTF
+│      点字腾凌体.TTF
+│      点字艺圆.TTF
+│      点字苍穹体.TTF
+│      点字蔚然手书.TTF
+│      点字虎啸体.TTF
+│      点字虎啸拼音体.TTF
+│      点字超凡战甲.ttf
+│      点字逸致体.TTF
+│      点字逸致拼音体.TTF
+│      点字酷黑体.TTF
+│      点字醇黑.TTF
+│      点字钟灵行楷.TTF
+│      点字阔爱体.TTF
+│      点字阿庆燃体.TTF
+│      点字隽永.TTF
+│      点字青花楷.TTF
+│      点字青花行楷.TTF
+│      点字青花隶.TTF
+│      点字风华体.TTF
+│      点字飒爽手写体.TTF
+│      点字魔趣.TTF
+│      点字麦旋风.TTF
+│      点字黑卡.ttf
+│      点字黑糖.TTF
+│      点字龙飞手书.TTF
+│      点字龙飞正楷.TTF
+│      点字龙飞行书.TTF
+│      
+│      
+├─胡晓波字体
+│      1.txt
+│      胡晓波-重黑-Bold.otf
+│      胡晓波-重黑-DemiBold.otf
+│      胡晓波-重黑-ExtraLight.otf
+│      胡晓波-重黑-Light.otf
+│      胡晓波-重黑-Medium.otf
+│      胡晓波-重黑-Regular.otf
+│      胡晓波-重黑-Thin.otf
+│      胡晓波-香辣体.ttf
+│      胡晓波刷刷体.ttf
+│      胡晓波天空体.ttf
+│      胡晓波开心体.ttf
+│      胡晓波强壮体.otf
+│      胡晓波影隶简体.ttf
+│      胡晓波影隶繁体.ttf
+│      胡晓波折纸体-增补后.TTF
+│      胡晓波敦黑w.ttf
+│      胡晓波机甲体.ttf
+│      胡晓波正圆体25.ttf
+│      胡晓波正圆体35.ttf
+│      胡晓波正圆体55.ttf
+│      胡晓波正圆体95.ttf
+│      胡晓波氢黑体.ttf
+│      胡晓波波点黑.ttf
+│      胡晓波浪漫宋.ttf
+│      胡晓波润圆体15.ttf
+│      胡晓波润圆体25.ttf
+│      胡晓波润圆体35.ttf
+│      胡晓波猛男体.otf
+│      胡晓波猫粮体-Bold.ttf
+│      胡晓波猫粮体-Light.ttf
+│      胡晓波男人帮体.ttf
+│      胡晓波男神体.otf
+│      胡晓波画报黑w.ttf
+│      胡晓波真帅体.otf
+│      胡晓波硬汉体.ttf
+│      胡晓波美心体.ttf
+│      胡晓波萌萌体.ttf
+│      胡晓波谷云包装体.ttf
+│      胡晓波谷云厚隶.ttf
+│      胡晓波谷云拙风体.ttf
+│      胡晓波谷云狂楷体.TTF
+│      胡晓波谷云锋锐体.ttf
+│      胡晓波趣圆体.ttf
+│      胡晓波钢古w.ttf
+│      胡晓波锐黑体.ttf
+│      胡晓波随便体.otf
+│      胡晓波雅致黑.ttf
+│      胡晓波青年宋粗.ttf
+│      胡晓波青年宋细.ttf
+│      胡晓波香辣体.ttf
+│      胡晓波骚包体.otf
+│ 
+├─吉页字体
+│      1.txt
+│      吉页不虚此行.ttf
+│      吉页仗剑走天涯.ttf
+│      吉页任性体简.ttf
+│      吉页冰墩墩体简.ttf
+│      吉页口号行体简.ttf
+│      吉页古老宋.otf
+│      吉页古老宋.ttf
+│      吉页君子仿宋体简-怀旧版.ttf
+│      吉页君子仿宋体简.ttf
+│      吉页墨韵行楷.ttf
+│      吉页大儒宋体简-怀旧版.ttf
+│      吉页大儒宋体简.ttf
+│      吉页大儒宋体繁-怀旧版.ttf
+│      吉页大儒宋体繁.ttf
+│      吉页大字体简.ttf
+│      吉页大字体繁.ttf
+│      吉页尖锋楷书.ttf
+│      吉页手写隶书.ttf
+│      吉页新荣耀体简.ttf
+│      吉页施申财漆书.ttf
+│      吉页楼构体简.ttf
+│      吉页正午时光.ttf
+│      吉页毛体草书手写.ttf
+│      吉页灵越楷体.ttf
+│      吉页燃爆体简.ttf
+│      吉页逆行二号.ttf
+│      吉页雅雯体简.ttf
+│      吉页非宋体简.ttf
+│      吉页革命大黑体简.ttf
+│      吉页革命黑体简.ttf
+│      吉页颉润体简.ttf
+│      吉页颉润细体简.ttf
+│      吉页颉黑体简.ttf
+│      吉页颉黑细体简.ttf
+│      
+├─和风书道昭和字体
+│      1.txt
+│      和风书道昭和飞龙体 (2).ttf
+│      和风书道昭和黄龙体01.ttf
+│      
+├─喜鹊字体
 
+
+│  │  喜鹊万人造字体.ttf
+│  │  喜鹊乌冬面(简 繁体).ttf
+│  │  喜鹊乐敦体.ttf
+│  │  喜鹊古字典体(简 繁体).ttf
+│  │  喜鹊古风小楷(简+繁).ttf
+│  │  喜鹊在山林体(简 繁体).OTF
+│  │  喜鹊小轻松体.TTF
+│  │  喜鹊招牌体(简 繁体).ttf
+│  │  喜鹊木叶体(简 繁体).ttf
+│  │  喜鹊梅花楷体(简 繁体).ttf
+│  │  喜鹊燕书体(简 繁体).ttf
+│  │  喜鹊直率体(简 繁体).ttf
+│  │  喜鹊聚珍体-regular.ttf
+│  │  喜鹊字体打包.zip 
+
+│          
+├─壹心字体
+│      1.txt
+│      壹心丽圆体.ttf
+│      壹心二次元体.ttf
+│      壹心仿古美术体.ttf
+│      壹心冲锋号.ttf
+│      壹心凌霄体.ttf
+│      壹心剪纸手账.ttf
+│      壹心卡哇伊.ttf
+│      壹心印象体.ttf
+│      壹心嘉年华.TTF
+│      壹心圆印体.ttf
+│      壹心墩墩体.ttf
+│      壹心夏日体.ttf
+│      壹心奇妙体.ttf
+│      壹心奇缘黑.TTF
+│      壹心宇宙黑.ttf
+│      壹心小手工.ttf
+│      壹心小机灵.ttf
+│      壹心少儿体.ttf
+│      壹心巅峰黑.ttf
+│      壹心年糕体.ttf
+│      壹心快乐体.ttf
+│      壹心悦游体.ttf
+│      壹心战甲黑.ttf
+│      壹心折纸体.ttf
+│      壹心抹茶体.ttf
+│      壹心摇滚青年.ttf
+│      壹心摩卡黑.TTF
+│      壹心时光体.ttf
+│      壹心晴黑体.ttf
+│      壹心暖暖体.ttf
+│      壹心木头人.ttf
+│      壹心机械体.ttf
+│      壹心极限体.ttf
+│      壹心果敢黑.ttf
+│      壹心格调黑.ttf
+│      壹心梦想体.ttf
+│      壹心欢乐颂.ttf
+│      壹心正气黑.ttf
+│      壹心武士黑.ttf
+│      壹心泡泡龙.TTF
+│      壹心波普黑.ttf
+│      壹心波纹黑.ttf
+│      壹心流云体.ttf
+│      壹心深海体.ttf
+│      壹心清脆体.ttf
+│      壹心潮玩宋.ttf
+│      壹心点点体.TTF
+│      壹心烈风体.TTF
+│      壹心热血体.ttf
+│      壹心燕尾蝶.ttf
+│      壹心爆米花.ttf
+│      壹心爆裂体.ttf
+│      壹心畅游体.ttf
+│      壹心皮卡皮卡.TTF
+│      壹心稻草人.ttf
+│      壹心立黑.ttf
+│      壹心童年体.ttf
+│      壹心童趣黑.ttf
+│      壹心粉笔头.ttf
+│      壹心绫致黑.ttf
+│      壹心萌芽体.ttf
+│      壹心蒸汽时代体.ttf
+│      壹心薯片体.ttf
+│      壹心虚竹体.ttf
+│      壹心蛋黄酥.ttf
+│      壹心诺言体.ttf
+│      壹心趣圆体.ttf
+│      壹心趣玩体.ttf
+│      壹心跳跳体.ttf
+│      壹心迅捷体.ttf
+│      壹心追风体.ttf
+│      壹心逗趣体.ttf
+│      壹心遇见体.ttf
+│      壹心酷盖黑.ttf
+│      壹心铠甲黑.ttf
+│      壹心锋芒体.ttf
+│      壹心闪闪体.ttf
+│      壹心露营体.ttf
+│      壹心风潮宋.ttf
+│      壹心风驰体.ttf
+│      壹心飞舞体.ttf
+│      壹心饼干体.ttf
+│      壹心马戏团体.TTF
+│      壹心高兴体.ttf
+│      壹心魔法体.ttf
+│      壹心黑糖体.ttf
+│  
+│      
+├─演示字体
+│      1.txt
+│      演示佛系体.ttf
+│      演示夏行楷.ttf
+│      演示少年行.ttf
+│      演示悠然小楷.ttf
+│      演示斜黑体.ttf
+│      演示新手书.TTF
+│      演示春风楷.ttf
+│      演示汉楷宋.ttf
+│      演示秋鸿楷.ttf
+│      演示镇魂行楷.ttf
+│      演示镇魂行楷斜体.ttf
+├─黄油相机字体
+│      1.txt
+│      郑庆科黄油体.ttf
+│      黄油像素体.ttf
+│      黄油啵啵体-Bold.otf
+│      黄油啵啵体.otf
+│      黄油拾叁体.ttf
+│      黄油溏心体-斜体.ttf
+│      黄油溏心体800-Bold.ttf
+│      黄油面包体.ttf
+│      黄油鹿柯珂体.otf
+│      黄油鹿柯珂体.ttf
+│      
+├─默陌字体
+│      1.txt
+│      傲娇公举体.ttf
+│      小豆岛默陌肥圆手写.otf
+│      年少轻狂青春体.ttf
+│      游梦手迹.ttf
+│      逗你玩趣黑体.ttf
+│      闲云清茶体.ttf
+│      青呱圆萌体.ttf
+│      青春狂躁体.ttf
+│      静墨飘逸体.ttf
+│      飞墨侠客体.ttf
+│      默陌专辑手写体.ttf
+│      默陌信笺手写体.ttf
+│      默陌剑影钢笔体.ttf
+│      默陌劲道体.ttf
+│      默陌咿呀体.ttf
+│      默陌山魂手迹.ttf
+│      默陌心晴手写体.ttf
+│      默陌怪侠体.ttf
+│      默陌拉面体.ttf
+│      默陌月芽体.ttf
+│      默陌流云快哉体.ttf
+│      默陌流梦手写体.ttf
+│      默陌海鲸手迹.ttf
+│      默陌清浪草签体.ttf
+│      默陌清风隶.ttf
+│      默陌游梦手迹.ttf
+│      默陌漫游体.ttf
+│      默陌狂傲手迹.ttf
+│      默陌狂飞侠客体.ttf
+│      默陌狂飞溅墨版.ttf
+│      默陌珠雅隶.ttf
+│      默陌硬笔手写体.ttf
+│      默陌硬笔手写体粗.ttf
+│      默陌童画体.ttf
+│      默陌纸笺手迹.ttf
+│      默陌纸鸢草书简 常规.ttf
+│      默陌纸鸢行草书加粗 .ttf
+│      默陌绿妖体.ttf
+│      默陌绿豆手写体.ttf
+│      默陌缱绻体.ttf
+│      默陌老屋手迹.ttf
+│      默陌肥圆手写体.ttf
+│      默陌致远手写体.ttf
+│      默陌苍穹云书.ttf
+│      默陌茶思幽然笔迹.ttf
+│      默陌荒草体溅墨版.ttf
+│      默陌荒草手迹.ttf
+│      默陌菩提禅书.ttf
+│      默陌追风手写体.ttf
+│      默陌追风手写体精修.ttf
+│      默陌逐光者手迹.ttf
+│      默陌随想体.ttf
+│      默陌雅诗手迹.ttf
+│      默陌雨中漫步.ttf
+│      默陌静斋笔迹.ttf
+│      默陌风雨欣游体.ttf
+│      默陌魔师道影体.ttf
+│      默陌麦芒体.ttf
+│ 
 ├─Aa字库
 │      1.txt
 │      Aa188帅男团.ttf
@@ -1266,156 +1840,79 @@ ________________________________________________________________________________
 │      叶根友风帆特色简体.ttf
 │      叶根友飘然劲草繁.ttf
 │      
-├─吉页字体
-│      1.txt
-│      吉页不虚此行.ttf
-│      吉页仗剑走天涯.ttf
-│      吉页任性体简.ttf
-│      吉页冰墩墩体简.ttf
-│      吉页口号行体简.ttf
-│      吉页古老宋.otf
-│      吉页古老宋.ttf
-│      吉页君子仿宋体简-怀旧版.ttf
-│      吉页君子仿宋体简.ttf
-│      吉页墨韵行楷.ttf
-│      吉页大儒宋体简-怀旧版.ttf
-│      吉页大儒宋体简.ttf
-│      吉页大儒宋体繁-怀旧版.ttf
-│      吉页大儒宋体繁.ttf
-│      吉页大字体简.ttf
-│      吉页大字体繁.ttf
-│      吉页尖锋楷书.ttf
-│      吉页手写隶书.ttf
-│      吉页新荣耀体简.ttf
-│      吉页施申财漆书.ttf
-│      吉页楼构体简.ttf
-│      吉页正午时光.ttf
-│      吉页毛体草书手写.ttf
-│      吉页灵越楷体.ttf
-│      吉页燃爆体简.ttf
-│      吉页逆行二号.ttf
-│      吉页雅雯体简.ttf
-│      吉页非宋体简.ttf
-│      吉页革命大黑体简.ttf
-│      吉页革命黑体简.ttf
-│      吉页颉润体简.ttf
-│      吉页颉润细体简.ttf
-│      吉页颉黑体简.ttf
-│      吉页颉黑细体简.ttf
-│      
-├─和风书道昭和字体
-│      1.txt
-│      和风书道昭和飞龙体 (2).ttf
-│      和风书道昭和黄龙体01.ttf
-│      
-├─喜鹊字体
-
-
-│  │  喜鹊万人造字体.ttf
-│  │  喜鹊乌冬面(简 繁体).ttf
-│  │  喜鹊乐敦体.ttf
-│  │  喜鹊古字典体(简 繁体).ttf
-│  │  喜鹊古风小楷(简+繁).ttf
-│  │  喜鹊在山林体(简 繁体).OTF
-│  │  喜鹊小轻松体.TTF
-│  │  喜鹊招牌体(简 繁体).ttf
-│  │  喜鹊木叶体(简 繁体).ttf
-│  │  喜鹊梅花楷体(简 繁体).ttf
-│  │  喜鹊燕书体(简 繁体).ttf
-│  │  喜鹊直率体(简 繁体).ttf
-│  │  喜鹊聚珍体-regular.ttf
-│  │  喜鹊字体打包.zip 
-
-│          
-├─壹心字体
-│      1.txt
-│      壹心丽圆体.ttf
-│      壹心二次元体.ttf
-│      壹心仿古美术体.ttf
-│      壹心冲锋号.ttf
-│      壹心凌霄体.ttf
-│      壹心剪纸手账.ttf
-│      壹心卡哇伊.ttf
-│      壹心印象体.ttf
-│      壹心嘉年华.TTF
-│      壹心圆印体.ttf
-│      壹心墩墩体.ttf
-│      壹心夏日体.ttf
-│      壹心奇妙体.ttf
-│      壹心奇缘黑.TTF
-│      壹心宇宙黑.ttf
-│      壹心小手工.ttf
-│      壹心小机灵.ttf
-│      壹心少儿体.ttf
-│      壹心巅峰黑.ttf
-│      壹心年糕体.ttf
-│      壹心快乐体.ttf
-│      壹心悦游体.ttf
-│      壹心战甲黑.ttf
-│      壹心折纸体.ttf
-│      壹心抹茶体.ttf
-│      壹心摇滚青年.ttf
-│      壹心摩卡黑.TTF
-│      壹心时光体.ttf
-│      壹心晴黑体.ttf
-│      壹心暖暖体.ttf
-│      壹心木头人.ttf
-│      壹心机械体.ttf
-│      壹心极限体.ttf
-│      壹心果敢黑.ttf
-│      壹心格调黑.ttf
-│      壹心梦想体.ttf
-│      壹心欢乐颂.ttf
-│      壹心正气黑.ttf
-│      壹心武士黑.ttf
-│      壹心泡泡龙.TTF
-│      壹心波普黑.ttf
-│      壹心波纹黑.ttf
-│      壹心流云体.ttf
-│      壹心深海体.ttf
-│      壹心清脆体.ttf
-│      壹心潮玩宋.ttf
-│      壹心点点体.TTF
-│      壹心烈风体.TTF
-│      壹心热血体.ttf
-│      壹心燕尾蝶.ttf
-│      壹心爆米花.ttf
-│      壹心爆裂体.ttf
-│      壹心畅游体.ttf
-│      壹心皮卡皮卡.TTF
-│      壹心稻草人.ttf
-│      壹心立黑.ttf
-│      壹心童年体.ttf
-│      壹心童趣黑.ttf
-│      壹心粉笔头.ttf
-│      壹心绫致黑.ttf
-│      壹心萌芽体.ttf
-│      壹心蒸汽时代体.ttf
-│      壹心薯片体.ttf
-│      壹心虚竹体.ttf
-│      壹心蛋黄酥.ttf
-│      壹心诺言体.ttf
-│      壹心趣圆体.ttf
-│      壹心趣玩体.ttf
-│      壹心跳跳体.ttf
-│      壹心迅捷体.ttf
-│      壹心追风体.ttf
-│      壹心逗趣体.ttf
-│      壹心遇见体.ttf
-│      壹心酷盖黑.ttf
-│      壹心铠甲黑.ttf
-│      壹心锋芒体.ttf
-│      壹心闪闪体.ttf
-│      壹心露营体.ttf
-│      壹心风潮宋.ttf
-│      壹心风驰体.ttf
-│      壹心飞舞体.ttf
-│      壹心饼干体.ttf
-│      壹心马戏团体.TTF
-│      壹心高兴体.ttf
-│      壹心魔法体.ttf
-│      壹心黑糖体.ttf
-│      
+├─昭和書体
+│      Ksoあけぼのakebono.ttf
+│      Ksoかぐや-KsoKaguya.ttf
+│      Ksoバサころ-KsoBasakoro.ttf
+│      Kso不動-KsoFudou.ttf
+│      Kso仙人KsoSennin.ttf
+│      KSO令明-KsoReimei.ttf
+│      KSO創.ttf
+│      Kso地蔵-KsoJizou.ttf
+│      Kso天空KsoTenku.ttf
+│      Kso天龍.ttf
+│      kso太楷書.ttf
+│      KSO太行書.ttf
+│      kso如来.ttf
+│      Kso如来爽-KsoNyoraiSou.ttf
+│      Kso孔雀-KsoKujaku.ttf
+│      Kso寿鶴-KsoJukaku.ttf
+│      Kso弥勒-KsoMiroku.ttf
+│      Kso心龍 KsoShinryu.ttf
+│      Kso文殊-KsoMonju.ttf
+│      kso新太楷書.ttf
+│      Kso新豪龍.otf
+│      kso昇龍.ttf
+│      Kso昭和ひげ文字hige.ttf
+│      kso昭和勘亭流.ttf
+│      Kso昭和寄席文字-KsoYose.ttf
+│      Kso昭和楷書.ttf
+│      kso昭和行書.ttf
+│      Kso普賢ふげん-KsoFugen.ttf
+│      kso朱雀.ttf
+│      KSO栄泉太楷書-KsoEikaiFuto.ttf
+│      kso栄泉楷書.ttf
+│      kso栄泉楷行書.ttf
+│      Kso泥姫-KsoDorohime.ttf
+│      kso清龍.ttf
+│      kso滝.ttf
+│      Kso玄武 KsoGenbu.ttf
+│      Kso白虎.ttf
+│      Kso白虎爽-KsoByakkoSou.ttf
+│      Kso白龍爽-KsoHakuryuSou.ttf
+│      kso白龙.ttf
+│      Kso翁-KsoOkina .ttf
+│      kso花墨.ttf
+│      kso花神.ttf
+│      Kso草龍-KsoSouryu.ttf
+│      Kso虚空蔵-KsoKokuuzou.ttf
+│      Kso観音-KsoKannon.ttf
+│      Kso豪龍爽-KsoGoryuSou.ttf
+│      Kso迅馬-KsoJinba.ttf
+│      Kso遊和-KsoYuai.ttf
+│      Kso遊隷-KsoYurei.ttf
+│      Kso金剛-KsoKongou.ttf
+│      Kso銀龍.ttf
+│      Kso闘龍.ttf
+│      Kso闘龍爽-KsoToryuSou.ttf
+│      Kso陽炎.ttf
+│      kso雲龍.ttf
+│      Kso雲龍爽-KsoUnryuSou.ttf
+│      KSO雷神体.otf
+│      Kso風来坊-KsoFuraibou.ttf
+│      Kso飛龍.ttf
+│      kso黄龙.ttf
+│      Kso黒龍.ttf
+│      Kso黒龍爽-KsoKokuryuSou.ttf
+│      Kso龍神改-KsoRyujin3.ttf
+│      kso龙神.ttf
+│      KswFujin风神.ttf
+│      KswReisho昭和隸書.ttf
+│      KswSeisi势至.ttf
+│      ksw文龍bunryu.ttf
+│      Ksw極太楷書.ttf
+│      Ksw般若.ttf
+│    
 ├─大厂定制字体
 │  │  PUMA彪马 2022-2023.otf
 │  │  耐克密歇根字体Valiant.otf
@@ -4168,126 +4665,7 @@ ________________________________________________________________________________
 │              字魂静思宋.ttf
 │              字魂音律体.ttf
 │              
-├─尔雅字体
-│      1.txt
-│      尔雅东方体.ttf
-│      尔雅俏皮熊.ttf
-│      尔雅元气森林.ttf
-│      尔雅凤凰手书.ttf
-│      尔雅创意黑.ttf
-│      尔雅双刀宋.ttf
-│      尔雅君临手书.ttf
-│      尔雅吟游宋.ttf
-│      尔雅启儒体.ttf
-│      尔雅吸睛POP体.ttf
-│      尔雅喵星人.ttf
-│      尔雅嘿嘿黑.ttf
-│      尔雅复古黑.ttf
-│      尔雅夏日雪糕体.ttf
-│      尔雅大上海.ttf
-│      尔雅大白体.ttf
-│      尔雅天问体.ttf
-│      尔雅太空探索号.ttf
-│      尔雅太空浪潮体.ttf
-│      尔雅奋斗体.ttf
-│      尔雅寻龙手书.ttf
-│      尔雅小新体.ttf
-│      尔雅山水隶书.ttf
-│      尔雅山河体.ttf
-│      尔雅岳麓宋.ttf
-│      尔雅平野黑.ttf
-│      尔雅康熙清刻.ttf
-│      尔雅开元黑.ttf
-│      尔雅恒星体.ttf
-│      尔雅悠悠体.ttf
-│      尔雅悦宋体.ttf
-│      尔雅擎天柱.ttf
-│      尔雅文楷.ttf
-│      尔雅新大黑.ttf
-│      尔雅新综艺黑.ttf
-│      尔雅明月宋.ttf
-│      尔雅明月黑.ttf
-│      尔雅星云黑.ttf
-│      尔雅星光黑.ttf
-│      尔雅星火燎原体.ttf
-│      尔雅星耀黑.ttf
-│      尔雅星际旅行家.ttf
-│      尔雅春光体.ttf
-│      尔雅春然楷书.ttf
-│      尔雅木偶体.ttf
-│      尔雅未来体.ttf
-│      尔雅机甲风暴黑.ttf
-│      尔雅果冻体.ttf
-│      尔雅柳叶黑.ttf
-│      尔雅格鲁特.ttf
-│      尔雅棉花糖.ttf
-│      尔雅欢乐派对.ttf
-│      尔雅欢趣体.ttf
-│      尔雅正黑.ttf
-│      尔雅民国美术体.ttf
-│      尔雅江南宋.ttf
-│      尔雅沧濯手书.ttf
-│      尔雅泡泡体.ttf
-│      尔雅泡芙体.ttf
-│      尔雅洛隶体.ttf
-│      尔雅活力黑.ttf
-│      尔雅浪漫体.ttf
-│      尔雅润笔楷书.ttf
-│      尔雅清妍体.ttf
-│      尔雅烽火隶书.ttf
-│      尔雅爱丽丝.ttf
-│      尔雅爱趣宋.ttf
-│      尔雅猫咪体.ttf
-│      尔雅玄武体.ttf
-│      尔雅理想黑.ttf
-│      尔雅琥珀体.ttf
-│      尔雅瑞祥体.ttf
-│      尔雅甜心体.ttf
-│      尔雅电音体.ttf
-│      尔雅盛唐真书-简繁.ttf
-│      尔雅盛唐真书.ttf
-│      尔雅真知棒.ttf
-│      尔雅福禄宋.ttf
-│      尔雅秀丽楷书.ttf
-│      尔雅科技黑.ttf
-│      尔雅稻田守望者.ttf
-│      尔雅童梦体.ttf
-│      尔雅精英黑.ttf
-│      尔雅精言黑.ttf
-│      尔雅美龄宋.ttf
-│      尔雅翰林榜书.ttf
-│      尔雅胖丁体.ttf
-│      尔雅胭脂体.ttf
-│      尔雅荣耀手书.ttf
-│      尔雅蛟龙号.ttf
-│      尔雅蜜糖体.ttf
-│      尔雅蝴蝶体.ttf
-│      尔雅行宋.ttf
-│      尔雅装甲核心体.ttf
-│      尔雅豆沙体.ttf
-│      尔雅趣宋体.ttf
-│      尔雅轻松体.ttf
-│      尔雅远洋舰.ttf
-│      尔雅酷黑体.ttf
-│      尔雅镇远舰.ttf
-│      尔雅长乐体.ttf
-│      尔雅阳光体.ttf
-│      尔雅青梅隶书.ttf
-│      尔雅青花楷体.ttf
-│      尔雅青龙手书.ttf
-│      尔雅静思黑.ttf
-│      尔雅风华楷书.ttf
-│      尔雅风神体.ttf
-│      尔雅飞流体.ttf
-│      尔雅飞鸿楷书.ttf
-│      尔雅骆磊手书.ttf
-│      尔雅高效黑.ttf
-│      尔雅鲁班体.ttf
-│      尔雅鲲鹏体.ttf
-│      尔雅鸿儒体.ttf
-│      尔雅鸿运体.ttf
-│      尔雅龙虎榜书.ttf
-│      
+  
 ├─康熙字典体
 │  │  tpld康熙字典体.otf
 │  │  
@@ -8605,79 +8983,7 @@ ________________________________________________________________________________
 │      鼠饼胖可可.TTF
 │      龚凡硬笔行书.TTF
 │      
-├─昭和書体
-│      Ksoあけぼのakebono.ttf
-│      Ksoかぐや-KsoKaguya.ttf
-│      Ksoバサころ-KsoBasakoro.ttf
-│      Kso不動-KsoFudou.ttf
-│      Kso仙人KsoSennin.ttf
-│      KSO令明-KsoReimei.ttf
-│      KSO創.ttf
-│      Kso地蔵-KsoJizou.ttf
-│      Kso天空KsoTenku.ttf
-│      Kso天龍.ttf
-│      kso太楷書.ttf
-│      KSO太行書.ttf
-│      kso如来.ttf
-│      Kso如来爽-KsoNyoraiSou.ttf
-│      Kso孔雀-KsoKujaku.ttf
-│      Kso寿鶴-KsoJukaku.ttf
-│      Kso弥勒-KsoMiroku.ttf
-│      Kso心龍 KsoShinryu.ttf
-│      Kso文殊-KsoMonju.ttf
-│      kso新太楷書.ttf
-│      Kso新豪龍.otf
-│      kso昇龍.ttf
-│      Kso昭和ひげ文字hige.ttf
-│      kso昭和勘亭流.ttf
-│      Kso昭和寄席文字-KsoYose.ttf
-│      Kso昭和楷書.ttf
-│      kso昭和行書.ttf
-│      Kso普賢ふげん-KsoFugen.ttf
-│      kso朱雀.ttf
-│      KSO栄泉太楷書-KsoEikaiFuto.ttf
-│      kso栄泉楷書.ttf
-│      kso栄泉楷行書.ttf
-│      Kso泥姫-KsoDorohime.ttf
-│      kso清龍.ttf
-│      kso滝.ttf
-│      Kso玄武 KsoGenbu.ttf
-│      Kso白虎.ttf
-│      Kso白虎爽-KsoByakkoSou.ttf
-│      Kso白龍爽-KsoHakuryuSou.ttf
-│      kso白龙.ttf
-│      Kso翁-KsoOkina .ttf
-│      kso花墨.ttf
-│      kso花神.ttf
-│      Kso草龍-KsoSouryu.ttf
-│      Kso虚空蔵-KsoKokuuzou.ttf
-│      Kso観音-KsoKannon.ttf
-│      Kso豪龍爽-KsoGoryuSou.ttf
-│      Kso迅馬-KsoJinba.ttf
-│      Kso遊和-KsoYuai.ttf
-│      Kso遊隷-KsoYurei.ttf
-│      Kso金剛-KsoKongou.ttf
-│      Kso銀龍.ttf
-│      Kso闘龍.ttf
-│      Kso闘龍爽-KsoToryuSou.ttf
-│      Kso陽炎.ttf
-│      kso雲龍.ttf
-│      Kso雲龍爽-KsoUnryuSou.ttf
-│      KSO雷神体.otf
-│      Kso風来坊-KsoFuraibou.ttf
-│      Kso飛龍.ttf
-│      kso黄龙.ttf
-│      Kso黒龍.ttf
-│      Kso黒龍爽-KsoKokuryuSou.ttf
-│      Kso龍神改-KsoRyujin3.ttf
-│      kso龙神.ttf
-│      KswFujin风神.ttf
-│      KswReisho昭和隸書.ttf
-│      KswSeisi势至.ttf
-│      ksw文龍bunryu.ttf
-│      Ksw極太楷書.ttf
-│      Ksw般若.ttf
-│      
+     
 ├─汉呈字体
 │      1.txt
 │      汉呈兰亭怀旧体.TTF
@@ -8784,235 +9090,7 @@ ________________________________________________________________________________
 │      火山字型 眉月 S01.ttf
 │      火山字型 眉月 S02.ttf
 │      
-├─点字库
-│      1.txt
-│      点字QQ糖.TTF
-│      点字久竹体.TTF
-│      点字乐圆 35.TTF
-│      点字乐圆 45.TTF
-│      点字乐圆 55.TTF
-│      点字乐圆 65.TTF
-│      点字乐圆 75.TTF
-│      点字乐圆 85.TTF
-│      点字乐圆体.TTF
-│      点字云辰.ttf
-│      点字仙侠体.TTF
-│      点字俊隶.TTF
-│      点字倔强黑 50.TTF
-│      点字倔强黑 55.TTF
-│      点字倔强黑 60.TTF
-│      点字倔强黑 65.TTF
-│      点字倔强黑 70.TTF
-│      点字倔强黑 75.TTF
-│      点字倔强黑 80.TTF
-│      点字倔强黑 85.TTF
-│      点字倔强黑.TTF
-│      点字像素16.ttf
-│      点字像素之城.ttf
-│      点字典仿宋.TTF
-│      点字典仿宋粗.TTF
-│      点字典圆35.TTF
-│      点字典圆45.TTF
-│      点字典圆55.TTF
-│      点字典圆65.TTF
-│      点字典圆75.TTF
-│      点字典宋.TTF
-│      点字典宋粗.TTF
-│      点字典楷.TTF
-│      点字典楷粗.TTF
-│      点字典黑 35J.TTF
-│      点字典黑 45J.TTF
-│      点字典黑 55J.TTF
-│      点字典黑 65J.TTF
-│      点字典黑 75J.TTF
-│      点字凌厉体.TTF
-│      点字刻宋.TTF
-│      点字匹喏曹 35.ttf
-│      点字匹喏曹 45.ttf
-│      点字匹喏曹 55.ttf
-│      点字匹喏曹 65.ttf
-│      点字匹喏曹 75.ttf
-│      点字匹喏曹 85.ttf
-│      点字匹诺曹.TTF
-│      点字千福手书.TTF
-│      点字卡酷.ttf
-│      点字墩墩体.TTF
-│      点字夏乐体.TTF
-│      点字大字报.TTF
-│      点字奇妙体.TTF
-│      点字奇巧.ttf
-│      点字小熊猫.TTF
-│      点字小隶书.TTF
-│      点字少年.ttf
-│      点字山兰体.TTF
-│      点字山水行楷.TTF
-│      点字峰骨.TTF
-│      点字快乐体.ttf
-│      点字悠漫体.TTF
-│      点字手写漆书.TTF
-│      点字手写童真体.TTF
-│      点字拙然体.TTF
-│      点字敦肃 35.ttf
-│      点字敦肃 45.ttf
-│      点字敦肃 55.ttf
-│      点字敦肃 65.ttf
-│      点字敦肃 75.ttf
-│      点字敦肃 85.ttf
-│      点字敦肃 95.ttf
-│      点字敦肃体.TTF
-│      点字文人榜书.TTF
-│      点字方黑.ttf
-│      点字明刻本婉宋.TTF
-│      点字春意体.TTF
-│      点字晨颜行楷.TTF
-│      点字朗润体 繁.ttf
-│      点字朗润体.TTF
-│      点字机械体.TTF
-│      点字桃花诗体.TTF
-│      点字永胜粗宋.TTF
-│      点字江户招牌黑.TTF
-│      点字江湖体.TTF
-│      点字沐风体.TTF
-│      点字油漆体.TTF
-│      点字波波体.TTF
-│      点字浅夏体.otf
-│      点字浩魂.ttf
-│      点字淡墨行楷.TTF
-│      点字混元体.TTF
-│      点字漫黑 繁.ttf
-│      点字漫黑.TTF
-│      点字烈金体.TTF
-│      点字烈风.TTF
-│      点字焦糖体.TTF
-│      点字玄真宋.TTF
-│      点字王者风范.TTF
-│      点字疾风.TTF
-│      点字瘦金书.TTF
-│      点字禄军行楷.TTF
-│      点字秀圆体.TTF
-│      点字秀峰体.TTF
-│      点字稻草人.TTF
-│      点字童稚体.TTF
-│      点字简宋 35.ttf
-│      点字简宋 45.ttf
-│      点字简宋 55.ttf
-│      点字简宋 65.ttf
-│      点字简宋 75.ttf
-│      点字简宋 85 .ttf
-│      点字简宋 95.ttf
-│      点字简宋.TTF
-│      点字纯真体.TTF
-│      点字综艺 35.ttf
-│      点字综艺 45.ttf
-│      点字综艺 55.ttf
-│      点字综艺 65.ttf
-│      点字综艺 75.ttf
-│      点字综艺 85.ttf
-│      点字综艺 95.ttf
-│      点字综艺体.TTF
-│      点字美玲体.TTF
-│      点字腾凌体.TTF
-│      点字艺圆.TTF
-│      点字苍穹体.TTF
-│      点字蔚然手书.TTF
-│      点字虎啸体.TTF
-│      点字虎啸拼音体.TTF
-│      点字超凡战甲.ttf
-│      点字逸致体.TTF
-│      点字逸致拼音体.TTF
-│      点字酷黑体.TTF
-│      点字醇黑.TTF
-│      点字钟灵行楷.TTF
-│      点字阔爱体.TTF
-│      点字阿庆燃体.TTF
-│      点字隽永.TTF
-│      点字青花楷.TTF
-│      点字青花行楷.TTF
-│      点字青花隶.TTF
-│      点字风华体.TTF
-│      点字飒爽手写体.TTF
-│      点字魔趣.TTF
-│      点字麦旋风.TTF
-│      点字黑卡.ttf
-│      点字黑糖.TTF
-│      点字龙飞手书.TTF
-│      点字龙飞正楷.TTF
-│      点字龙飞行书.TTF
-│      
-├─站酷字体
-│      1.txt
-│      刘兵克曦冉体.ttf
-│      刘兵克曦冉体超细版.ttf
-│      站酷冷水萧青刻体.ttf
-│      站酷冷水萧青刻古典体.ttf
-│      站酷创意宋ZCOOLchuangyisong2.ttf
-│      站酷叶小凉尺素体.ttf
-│      站酷型丽体常规ZCOOLxingliti-Regular.ttf
-│      站酷型丽体粗ZCOOLxintliti-Bold.ttf
-│      站酷型丽体细ZCOOLxingliti-Light.ttf
-│      站酷妙典和风体.ttf
-│      站酷妙典风云体.ttf
-│      站酷庆科建黑体.ttf
-│      站酷庆科追梦体.ttf
-│      站酷彤彤体ZCOOLtongtong.ttf
-│      站酷春风体ZCOOLchunfengti.ttf
-│      站酷锐锐体ZCOOLruirui.ttf
-│      站酷鸿远御风体-修正版.TTF
-│      
-├─胡晓波字体
-│      1.txt
-│      胡晓波-重黑-Bold.otf
-│      胡晓波-重黑-DemiBold.otf
-│      胡晓波-重黑-ExtraLight.otf
-│      胡晓波-重黑-Light.otf
-│      胡晓波-重黑-Medium.otf
-│      胡晓波-重黑-Regular.otf
-│      胡晓波-重黑-Thin.otf
-│      胡晓波-香辣体.ttf
-│      胡晓波刷刷体.ttf
-│      胡晓波天空体.ttf
-│      胡晓波开心体.ttf
-│      胡晓波强壮体.otf
-│      胡晓波影隶简体.ttf
-│      胡晓波影隶繁体.ttf
-│      胡晓波折纸体-增补后.TTF
-│      胡晓波敦黑w.ttf
-│      胡晓波机甲体.ttf
-│      胡晓波正圆体25.ttf
-│      胡晓波正圆体35.ttf
-│      胡晓波正圆体55.ttf
-│      胡晓波正圆体95.ttf
-│      胡晓波氢黑体.ttf
-│      胡晓波波点黑.ttf
-│      胡晓波浪漫宋.ttf
-│      胡晓波润圆体15.ttf
-│      胡晓波润圆体25.ttf
-│      胡晓波润圆体35.ttf
-│      胡晓波猛男体.otf
-│      胡晓波猫粮体-Bold.ttf
-│      胡晓波猫粮体-Light.ttf
-│      胡晓波男人帮体.ttf
-│      胡晓波男神体.otf
-│      胡晓波画报黑w.ttf
-│      胡晓波真帅体.otf
-│      胡晓波硬汉体.ttf
-│      胡晓波美心体.ttf
-│      胡晓波萌萌体.ttf
-│      胡晓波谷云包装体.ttf
-│      胡晓波谷云厚隶.ttf
-│      胡晓波谷云拙风体.ttf
-│      胡晓波谷云狂楷体.TTF
-│      胡晓波谷云锋锐体.ttf
-│      胡晓波趣圆体.ttf
-│      胡晓波钢古w.ttf
-│      胡晓波锐黑体.ttf
-│      胡晓波随便体.otf
-│      胡晓波雅致黑.ttf
-│      胡晓波青年宋粗.ttf
-│      胡晓波青年宋细.ttf
-│      胡晓波香辣体.ttf
-│      胡晓波骚包体.otf
-│      
+
 ├─荆霄鹏田英章卢中南姜浩
 │      1.txt
 │      卢中南楷书.ttf
@@ -9423,6 +9501,25 @@ ________________________________________________________________________________
 │      默陌魔师道影体.ttf
 │      默陌麦芒体.ttf
 │      
+├─站酷字体
+│      1.txt
+│      刘兵克曦冉体.ttf
+│      刘兵克曦冉体超细版.ttf
+│      站酷冷水萧青刻体.ttf
+│      站酷冷水萧青刻古典体.ttf
+│      站酷创意宋ZCOOLchuangyisong2.ttf
+│      站酷叶小凉尺素体.ttf
+│      站酷型丽体常规ZCOOLxingliti-Regular.ttf
+│      站酷型丽体粗ZCOOLxintliti-Bold.ttf
+│      站酷型丽体细ZCOOLxingliti-Light.ttf
+│      站酷妙典和风体.ttf
+│      站酷妙典风云体.ttf
+│      站酷庆科建黑体.ttf
+│      站酷庆科追梦体.ttf
+│      站酷彤彤体ZCOOLtongtong.ttf
+│      站酷春风体ZCOOLchunfengti.ttf
+│      站酷锐锐体ZCOOLruirui.ttf
+│      站酷鸿远御风体-修正版.TTF
 └─龚帆
         龚帆免费体.ttf
         龚帆国潮体.ttf
