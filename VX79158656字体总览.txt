@@ -4671,8 +4671,8 @@ ________________________________________________________________________________
 │  │      AR DCGLYingBiKaiPGB文鼎DC光璐硬笔楷书P.ttf
 │  │      
 │  ├─文鼎DC曼蒂手書體
-│  │      AR DCMandieScriptB5文鼎DC曼蒂手書體.ttf
-│  │      
+│  │      文鼎DC曼蒂手書體F  AR DCMandieScriptFB5.ttf
+│  │      文鼎DC曼蒂手書體  AR DCMandieScriptB5.ttf
 │  ├─文鼎DC清圆体
 │  │      AR DCQingYuanB5 BD文鼎DC清圓體_B.ttf
 │  │      AR DCQingYuanB5 MD文鼎DC清圓體_M.ttf
@@ -5359,7 +5359,8 @@ ________________________________________________________________________________
 │  │      AR KaiB5Std MD文鼎楷體B5Std_M.ttf
 │  │      AR KaiEXT MD文鼎楷體外字_M.ttf
 │  │      AR KaiU30 MD文鼎楷體U30_M.ttf
-│  │      
+│  │      AR KaiG30 MD文鼎中楷体G30
+│  │      AR KaishoJP MD AR楷書体_M 
 │  ├─文鼎毛楷体
 │  │      AR MaoKaiB5 BD文鼎毛楷_B.ttf
 │  │      AR MaoKaiB5 EB文鼎毛楷_E.ttf
